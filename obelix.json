@@ -1,0 +1,74 @@
+[{
+    "id": "P001",
+    "nome": "Il Picciotto",
+    "indirizzo": "C.so Piemonte, 11",
+    "citta": "Saluzzo",
+    "telefono": "3469671578",
+    "email": "-",
+    "latitudine": 44.64637656159387,
+    "longitudine": 7.488614656697821,
+    "cibi": [
+        {
+            "id":"C001",
+            "nome":"Arancina al ragu'",
+            "prezzo":3
+        },
+        {
+            "id":"C002",
+            "nome":"Arancina con prosciutto e mozzarella",
+            "prezzo":3
+        },
+        {
+            "id":"C003",
+            "nome":"Arancina alla norma",
+            "prezzo":3
+        },
+        {
+            "id":"C004",
+            "nome":"Arancina ai formaggi",
+            "prezzo":3
+        }
+    ],
+    "bevande": [
+        {
+            "id":"B001",
+            "nome":"Acqua naturale 50cl",
+            "prezzo":1
+        },
+        {
+            "id":"B002",
+            "nome":"Acqua frizzante 50cl",
+            "prezzo":1
+        },
+        {
+            "id":"B003",
+            "nome":"Coca Cola 33cl",
+            "prezzo":2.5
+        },
+        {
+            "id":"B004",
+            "nome":"Coca Cola Zero 33cl",
+            "prezzo":2.5
+        }
+    ],
+    "menu": [
+        {
+            "id":"M001",
+            "nome":"Menu' Easy",
+            "descrizione":"1 pezzo a scelta + acqua o bibita analcolica da 0,33cl",
+            "prezzo":3.5
+        },
+        {
+            "id":"M002",
+            "nome":"Menu' Classic",
+            "descrizione":"2 pezzi a scelta + acqua o bibita analcolica da 0,33cl",
+            "prezzo":6
+        },
+        {
+            "id":"M003",
+            "nome":"Menu' Picciotto",
+            "descrizione":"3 pezzi a scelta + acqua o bibita analcolica da 0,33cl",
+            "prezzo":7
+        }
+    ]
+}]
