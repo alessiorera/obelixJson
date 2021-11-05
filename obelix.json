@@ -7,7 +7,8 @@
     "email": "-",
     "latitudine": 44.64637656159387,
     "longitudine": 7.488614656697821,
-    "cibi": {"dolci":[
+    "cibi": {
+        "dolce":[
         {
             "id":"C001",
             "nome":"Arancina al ragu'",
@@ -32,7 +33,34 @@
             "ingredienti":"-",
             "prezzo":3
         }
-    ]},
+        ],
+        "salato":[
+            {
+                "id":"C001",
+                "nome":"Arancina al ragu'",
+                "ingredienti":"-",
+                "prezzo":3
+            },
+            {
+                "id":"C002",
+                "nome":"Arancina con prosciutto e mozzarella",
+                "ingredienti":"-",
+                "prezzo":3
+            },
+            {
+                "id":"C003",
+                "nome":"Arancina alla norma",
+                "ingredienti":"-",
+                "prezzo":3
+            },
+            {
+                "id":"C004",
+                "nome":"Arancina ai formaggi",
+                "ingredienti":"-",
+                "prezzo":3
+            }
+            ]
+    },
     "bevande": [
         {
             "id":"B001",
