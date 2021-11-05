@@ -8,58 +8,52 @@
     "latitudine": 44.64637656159387,
     "longitudine": 7.488614656697821,
     "cibi": {
-        "dolce":[
+        "salato":[
         {
-            "id":"C001",
+            "id":"CS001",
             "nome":"Arancina al ragu'",
             "ingredienti":"-",
-            "prezzo":3
+            "prezzo":2.5
         },
         {
-            "id":"C002",
+            "id":"CS002",
             "nome":"Arancina con prosciutto e mozzarella",
             "ingredienti":"-",
-            "prezzo":3
+            "prezzo":2.5
         },
         {
-            "id":"C003",
+            "id":"CS003",
             "nome":"Arancina alla norma",
             "ingredienti":"-",
-            "prezzo":3
+            "prezzo":2.5
         },
         {
-            "id":"C004",
+            "id":"CS004",
             "nome":"Arancina ai formaggi",
             "ingredienti":"-",
-            "prezzo":3
+            "prezzo":2.5
         }
         ],
-        "salato":[
+        "dolce":[
             {
-                "id":"C001",
-                "nome":"Arancina al ragu'",
+                "id":"CD001",
+                "nome":"Cannolo",
                 "ingredienti":"-",
                 "prezzo":3
             },
             {
-                "id":"C002",
-                "nome":"Arancina con prosciutto e mozzarella",
+                "id":"CD001",
+                "nome":"Cannolo al pistacchio",
                 "ingredienti":"-",
-                "prezzo":3
+                "prezzo":4
             },
             {
-                "id":"C003",
-                "nome":"Arancina alla norma",
+                "id":"CD002",
+                "nome":"Krapfen al pistacchio",
                 "ingredienti":"-",
-                "prezzo":3
-            },
-            {
-                "id":"C004",
-                "nome":"Arancina ai formaggi",
-                "ingredienti":"-",
-                "prezzo":3
+                "prezzo":2.5
             }
-            ]
+        ]
     },
     "bevande": [
         {
