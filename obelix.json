@@ -282,7 +282,7 @@
     ]
 },
 {
-    "id": "P001",
+    "id": "P002",
     "nome": "Manhattan",
     "indirizzo": "Via Palazzo di Città, 25",
     "citta": "Saluzzo",
@@ -359,6 +359,7 @@
         }
         ]
     },
+    "dolce":[],
     "bevande": [
         {
             "id":"B001",
