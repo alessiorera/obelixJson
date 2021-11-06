@@ -235,8 +235,23 @@
         },
         {
             "id":"B007",
-            "nome":"Té al pesca",
+            "nome":"Té alla pesca",
             "prezzo":2
+        },
+        {
+            "id":"B008",
+            "nome":"Birra Moretti 0,33cl",
+            "prezzo":2.5
+        },
+        {
+            "id":"B009",
+            "nome":"Birra Peroni 0,33cl",
+            "prezzo":2.5
+        },
+        {
+            "id":"B010",
+            "nome":"Birra Poretti 0,33cl",
+            "prezzo":2.5
         }
     ],
     "menu": [
