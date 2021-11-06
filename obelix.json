@@ -32,6 +32,101 @@
             "nome":"Arancina ai formaggi",
             "ingredienti":"-",
             "prezzo":2.5
+        },{
+            "id": "CS005",
+            "nome": "Pizza Margherita",
+            "ingredienti": "-",
+            "prezzo": 2.5
+        },
+        {
+            "id": "CS006",
+            "nome": "Pizza con prosciutto",
+            "ingredienti": "-",
+            "prezzo": 2.5
+        },
+        {
+            "id": "CS007",
+            "nome": "Pizza con salame piccante",
+            "ingredienti": "-",
+            "prezzo": 2.5
+        },
+        {
+            "id": "CS008",
+            "nome": "Pizza con würstel",
+            "ingredienti": "-",
+            "prezzo": 2.5
+        },
+        {
+            "id": "CS009",
+            "nome": "Focaccia semplice",
+            "ingredienti": "-",
+            "prezzo": 2.5
+        },
+        {
+            "id": "CS010",
+            "nome": "Rollò con würstel",
+            "ingredienti": "-",
+            "prezzo": 2.5
+        },
+        {
+            "id": "CS011",
+            "nome": "Calzone al forno con mozzarella",
+            "ingredienti": "-",
+            "prezzo": 2.5
+        },
+        {
+            "id": "CS012",
+            "nome": "Calzone al forno con salame piccante e mozzarella",
+            "ingredienti": "-",
+            "prezzo": 2.5
+        },
+        {
+            "id": "CS013",
+            "nome": "Calzone al forno con salsiccia e friarielli",
+            "ingredienti": "-",
+            "prezzo": 2.5
+        },
+        {
+            "id": "CS014",
+            "nome": "Calzone al forno con prosciutto, pomodoro e mozzarella",
+            "ingredienti": "-",
+            "prezzo": 2.5
+        },
+        {
+            "id": "CS015",
+            "nome": "Calzone al forno con würstel, mozzarella e prosciutto cotto",
+            "ingredienti": "-",
+            "prezzo": 2.5
+        },
+        {
+            "id": "CS016",
+            "nome": "Calzone al forno con würstel, mozzarella e salame piccante",
+            "ingredienti": "-",
+            "prezzo": 2.5
+        },
+        {
+            "id": "CS017",
+            "nome": "Calzone al forno con porchetta, gorgonzola e pomodorini",
+            "ingredienti": "-",
+            "prezzo": 2.5
+        },
+        {
+            "id": "CS018",
+            "nome": "Calzone al forno alla norma",
+            "ingredienti": "-",
+            "prezzo": 2.5
+        },
+        {
+            "id": "CS019",
+            "nome": "Ravazzata al ragù",
+            "ingredienti": "-",
+            "prezzo": 2.5
+        },
+        {
+            "id": "CS020",
+            "nome": "Calzone fritto con porchetta e mozzarella",
+            "ingredienti": "-",
+            "prezzo": 2.5
         }
         ],
         "dolce":[
@@ -74,6 +169,31 @@
         {
             "id":"B004",
             "nome":"Coca Cola Zero 33cl",
+            "prezzo":2.5
+        },
+        {
+            "id":"B005",
+            "nome":"Aranciata 33cl",
+            "prezzo":2.5
+        },
+        {
+            "id":"B006",
+            "nome":"Lemonsoda 33cl",
+            "prezzo":2.5
+        },
+        {
+            "id":"B007",
+            "nome":"Pepsi 33cl",
+            "prezzo":2.5
+        },
+        {
+            "id":"B007",
+            "nome":"Té al limone",
+            "prezzo":2.5
+        },
+        {
+            "id":"B007",
+            "nome":"Té al pesca",
             "prezzo":2.5
         }
     ],
