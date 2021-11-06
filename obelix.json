@@ -280,4 +280,196 @@
             "prezzo":7
         }
     ]
+},
+{
+    "id": "P001",
+    "nome": "Manhattan",
+    "indirizzo": "Via Palazzo di Città, 25",
+    "citta": "Saluzzo",
+    "telefono": "3299882546",
+    "email": "-",
+    "latitudine": 44.64624035424961,
+    "longitudine": 7.488915853969665,
+    "cibi": {
+        "salato":[
+        {
+            "id":"CS001",
+            "nome":"Toast con prosciutto cotto e sottiletta",
+            "ingredienti":"-",
+            "prezzo":3
+        },
+        {
+            "id":"CS002",
+            "nome":"Toast con salame e sottiletta",
+            "ingredienti":"-",
+            "prezzo":3
+        },
+        {
+            "id":"CS003",
+            "nome":"Panino con prosciutto cotto e sottiletta/mozzarella",
+            "ingredienti":"-",
+            "prezzo":4
+        },
+        {
+            "id":"CS004",
+            "nome":"Panino con salame e sottiletta/mozzarella",
+            "ingredienti":"-",
+            "prezzo":4
+        },
+        {
+            "id":"CS005",
+            "nome":"Panino con bistecca di pollo e sottiletta/mozzarella",
+            "ingredienti":"-",
+            "prezzo":4
+        },
+        {
+            "id":"CS006",
+            "nome":"Focaccia farcita con prosciutto cotto e sottiletta/mozzarella",
+            "ingredienti":"-",
+            "prezzo":4
+        },{
+            "id": "CS007",
+            "nome": "Focaccia farcita con salame e sottiletta/mozzarella",
+            "ingredienti": "-",
+            "prezzo":4
+        },
+        {
+            "id": "CS008",
+            "nome": "Focaccia farcita con bistecca di pollo e sottiletta/mozzarella",
+            "ingredienti": "-",
+            "prezzo":4
+        },
+        {
+            "id": "CS009",
+            "nome": "Focaccia farcita con tonno e sottiletta/mozzarella",
+            "ingredienti": "-",
+            "prezzo":4
+        },
+        {
+            "id": "CS010",
+            "nome": "Piadina con prosciutto cotto e sottiletta/mozzarella",
+            "ingredienti": "-",
+            "prezzo":4
+        },
+        {
+            "id": "CS011",
+            "nome": "Piadina con salame e sottiletta/mozzarella",
+            "ingredienti": "-",
+            "prezzo":4
+        }
+        ]
+    },
+    "bevande": [
+        {
+            "id":"B001",
+            "nome":"Acqua naturale",
+            "prezzo":1
+        },
+        {
+            "id":"B002",
+            "nome":"Acqua frizzante",
+            "prezzo":1
+        },
+        {
+            "id":"B003",
+            "nome":"Coca Cola",
+            "prezzo":3
+        },
+        {
+            "id":"B004",
+            "nome":"Coca Cola Zero",
+            "prezzo":3
+        },
+        {
+            "id":"B005",
+            "nome":"Tonica in bottiglietta",
+            "prezzo":3
+        },
+        {
+            "id":"B006",
+            "nome":"Lemonsoda in bottiglietta",
+            "prezzo":3
+        },
+        {
+            "id":"B007",
+            "nome":"Ginger Ale in bottiglietta",
+            "prezzo":3
+        },
+        {
+            "id":"B008",
+            "nome":"Fanta",
+            "prezzo":3
+        },
+        {
+            "id":"B009",
+            "nome":"Sprite",
+            "prezzo":3
+        },
+        {
+            "id":"B010",
+            "nome":"ESTATHE Pesca",
+            "prezzo":3
+        },
+        {
+            "id":"B011",
+            "nome":"ESTATHE Limone",
+            "prezzo":3
+        },
+        {
+            "id":"B012",
+            "nome":"Red Bull",
+            "prezzo":3.5
+        },
+        {
+            "id":"B013",
+            "nome":"Succo Pera",
+            "prezzo":3
+        },
+        {
+            "id":"B014",
+            "nome":"Succo Ananas",
+            "prezzo":3
+        },
+        {
+            "id":"B015",
+            "nome":"Succo Pesca",
+            "prezzo":3
+        },
+        {
+            "id":"B016",
+            "nome":"Succo Albicocca",
+            "prezzo":3
+        },
+        {
+            "id":"B017",
+            "nome":"Succo Mirtillo",
+            "prezzo":3
+        }
+    ],
+    "menu": [
+        {
+            "id":"M001",
+            "nome":"Menu' Toast",
+            "descrizione":"Toast con 2 ingredienti a scelta + acqua naturale/frizzante",
+            "prezzo":4.5
+        },
+        {
+            "id":"M002",
+            "nome":"Menu' Panino",
+            "descrizione":"Panino con 2 ingredienti a scelta + acqua naturale/frizzante",
+            "prezzo":4.5
+        },
+        {
+            "id":"M003",
+            "nome":"Menu' Focaccia",
+            "descrizione":"Focaccia con 2 ingredienti a scelta + acqua naturale/frizzante",
+            "prezzo":4.5
+        },
+        {
+            "id":"M004",
+            "nome":"Menu' Piadina",
+            "descrizione":"Piadina con 2 ingredienti a scelta + acqua naturale/frizzante",
+            "prezzo":4.5
+        }
+    ]
 }]
