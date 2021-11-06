@@ -240,17 +240,17 @@
         },
         {
             "id":"B008",
-            "nome":"Birra Moretti 0,33cl",
+            "nome":"Birra Moretti 33cl",
             "prezzo":2.5
         },
         {
             "id":"B009",
-            "nome":"Birra Peroni 0,33cl",
+            "nome":"Birra Peroni 33cl",
             "prezzo":2.5
         },
         {
             "id":"B010",
-            "nome":"Birra Poretti 0,33cl",
+            "nome":"Birra Poretti 33cl",
             "prezzo":2.5
         }
     ],
