@@ -473,4 +473,625 @@
             "prezzo":4.5
         }
     ]
+},
+{
+    "id": "P003",
+    "nome": "Caffè Dublino",
+    "indirizzo": "C.so Italia, 106",
+    "citta": "Saluzzo",
+    "telefono": "0175290201",
+    "email": "-",
+    "latitudine": 44.6456,
+    "longitudine": 7.490931,
+    "cibi": [
+        {
+            "id":"C001",
+            "nome":"Hamburger",
+            "prezzo":3.5
+        },
+        {
+            "id":"C002",
+            "nome":"Cheeseburger",
+            "prezzo":4
+        },
+        {
+            "id":"C003",
+            "nome":"Bacon Cheeseburger",
+            "prezzo":5
+        },
+        {
+            "id":"C004",
+            "nome":"Super Bacon",
+            "prezzo":5
+        },
+        {
+            "id":"C005",
+            "nome":"American",
+            "prezzo":5
+        },
+        {
+            "id":"C006",
+            "nome":"Sausage Burger",
+            "prezzo":4
+        },
+        {
+            "id":"C007",
+            "nome":"Sausage Bacon Burger",
+            "prezzo":5
+        },
+        {
+            "id":"C008",
+            "nome":"Grilled Chicken Burger",
+            "prezzo":4
+        },
+        {
+            "id":"C009",
+            "nome":"Chicken Burger",
+            "prezzo":4
+        },
+        {
+            "id":"C010",
+            "nome":"Chicken Bacon",
+            "prezzo":5
+        },
+        {
+            "id":"C011",
+            "nome":"Hamburger Vegetariano",
+            "prezzo":3.5
+        },
+        {
+            "id":"C012",
+            "nome":"Piemontese Maxi da 200g",
+            "prezzo":7
+        },
+        {
+            "id":"C013",
+            "nome":"Angus irlandese Maxi da 200g",
+            "prezzo":7
+        },
+        {
+            "id":"C014",
+            "nome":"Fiorentino Maxi da 200g",
+            "prezzo":7
+        },
+        {
+            "id":"C015",
+            "nome":"Sausage Bacon Burger",
+            "prezzo":5
+        },
+        {
+            "id":"C016",
+            "nome":"Piadina pomodoro e mozzarella",
+            "prezzo":4
+        },
+        {
+            "id":"C017",
+            "nome":"Piadina cotto e formaggio",
+            "prezzo":4
+        },
+        {
+            "id":"C018",
+            "nome":"Piadina cotto, mozzarella e funghi",
+            "prezzo":4
+        },
+        {
+            "id":"C019",
+            "nome":"Piadina speck e brie",
+            "prezzo":4
+        },
+        {
+            "id":"C020",
+            "nome":"Piadina speck e gorgonzola",
+            "prezzo":4
+        },
+        {
+            "id":"C021",
+            "nome":"Piadina salame e formaggio",
+            "prezzo":4
+        },
+        {
+            "id":"C022",
+            "nome":"Piadina crudo e brie",
+            "prezzo":4.5
+        },
+        {
+            "id":"C023",
+            "nome":"Piadina crudo e gorgonzola",
+            "prezzo":4.5
+        },
+        {
+            "id":"C024",
+            "nome":"Piadina stracchino e rucola",
+            "prezzo":4
+        },
+        {
+            "id":"C025",
+            "nome":"Piadina crudo, stracchino e rucola",
+            "prezzo":4.5
+        },
+        {
+            "id":"C026",
+            "nome":"Piadina crudo e mozzarella",
+            "prezzo":4.5
+        },
+        {
+            "id":"C027",
+            "nome":"Piadina 4 formaggi",
+            "prezzo":4
+        },
+        {
+            "id":"C028",
+            "nome":"Piadina porchetta, maionese e rucola",
+            "prezzo":4
+        },
+        {
+            "id":"C029",
+            "nome":"Piadina bresaola, parmigiano e rucola",
+            "prezzo":4.5
+        },
+        {
+            "id":"C030",
+            "nome":"Gnocchi al pomodoro",
+            "prezzo":6
+        },
+        {
+            "id":"C031",
+            "nome":"Gnocchi ai formaggi",
+            "prezzo":6
+        },
+        {
+            "id":"C032",
+            "nome":"Ravioli al ragù",
+            "prezzo":6
+        },
+        {
+            "id":"C033",
+            "nome":"Tagliatelle al ragù",
+            "prezzo":6
+        },
+        {
+            "id":"C034",
+            "nome":"Crepes alla nutella",
+            "prezzo":3.5
+        },
+        {
+            "id":"C035",
+            "nome":"Crepes alla marmellata",
+            "prezzo":3.5
+        },
+        {
+            "id":"C036",
+            "nome":"Cuore caldo al cioccolato",
+            "prezzo":3.5
+        },
+        {
+            "id":"C037",
+            "nome":"Meringata",
+            "prezzo":3.5
+        },
+        {
+            "id":"C038",
+            "nome":"Soft tiramisù",
+            "prezzo":4
+        },
+        {
+            "id":"C039",
+            "nome":"Gelato",
+            "prezzo":3.5
+        },
+        {
+            "id":"C040",
+            "nome":"Insalata Mista",
+            "prezzo":6
+        },
+        {
+            "id":"C041",
+            "nome":"Insalata mista con prosciutto",
+            "prezzo":7
+        },
+        {
+            "id":"C042",
+            "nome":"Caesar salad",
+            "prezzo":7
+        }
+    ],
+    "bevande": [
+        {
+            "id":"B001",
+            "nome":"Acqua naturale 50cl",
+            "prezzo":1
+        },
+        {
+            "id":"B002",
+            "nome":"Acqua frizzante 50cl",
+            "prezzo":1
+        },
+        {
+            "id":"B003",
+            "nome":"Fanta 33cl",
+            "prezzo":2.5
+        },
+        {
+            "id":"B004",
+            "nome":"Sprite 33cl",
+            "prezzo":2.5
+        },
+        {
+            "id":"B005",
+            "nome":"Coca Cola 33cl",
+            "prezzo":2.8
+        },
+        {
+            "id":"B006",
+            "nome":"RedBull",
+            "prezzo":5
+        },
+        {
+            "id":"B007",
+            "nome":"Caffè",
+            "prezzo":1.5
+        },
+        {
+            "id":"B008",
+            "nome":"Cioccolata calda",
+            "prezzo":3
+        },
+        {
+            "id":"B009",
+            "nome":"Tisana",
+            "prezzo":2.5
+        },
+        {
+            "id":"B010",
+            "nome":"Cappuccino",
+            "prezzo":2
+        }
+    ],
+    "menu": [
+        {
+            "id":"M001",
+            "nome":"Menù 1",
+            "descrizione":"Panino o focaccia + patatine o crocchette + acqua 50cl",
+            "prezzo":6
+        },
+        {
+            "id":"M002",
+            "nome":"Menù 2",
+            "descrizione":"Piadina + patatine o crocchette + acqua 50cl",
+            "prezzo":6
+        },
+        {
+            "id":"M003",
+            "nome":"Menù 3",
+            "descrizione":"Hamburger o cheeseburger + patatine o crocchette + acqua 50cl",
+            "prezzo":6
+        },
+        {
+            "id":"M004",
+            "nome":"Menù 4",
+            "descrizione":"Hotdog + patatine o crocchette + acqua 50cl",
+            "prezzo":6
+        },
+        {
+            "id":"M005",
+            "nome":"Menù 5",
+            "descrizione":"Crostone + patatine o crocchette + acqua 50cl",
+            "prezzo":6
+        },
+        {
+            "id":"M006",
+            "nome":"Menù 6",
+            "descrizione":"Chicken burger + patatine o crocchette + acqua 50cl",
+            "prezzo":6
+        }
+    ]
+},
+{
+    "id": "P004",
+    "nome": "Fujiyama",
+    "indirizzo": "Via della Resistenza, 16/D",
+    "citta": "Saluzzo",
+    "telefono": "+390175218831",
+    "email": "info@fujiyamasaluzzo.it",
+    "latitudine":44.64770063802496,
+    "longitudine":7.494187998162431,
+    "cibi": {
+        "salato":[
+            {
+                "id":"CS001",
+                "nome":"Nigiri salmone - 2pz",
+                "ingredienti":"-",
+                "prezzo":3
+            },
+            {
+                "id":"CS002",
+                "nome":"Nigiri tonno - 2pz",
+                "ingredienti":"-",
+                "prezzo":3
+            },
+                                   {
+                "id":"CS003",
+                "nome":"Nigiri gambero - 2pz",
+                "ingredienti":"-",
+                "prezzo":3
+            },
+            {
+                "id":"CS004",
+                "nome":"Nigiri polipo - 2pz",
+                "ingredienti":"-",
+                "prezzo":3
+            },
+                                   {
+                "id":"CS005",
+                "nome":"Sashimi - 9pz",
+                "ingredienti":"-",
+                "prezzo":9.5
+            },
+            {
+                "id":"CS006",
+                "nome":"California Temaki ",
+                "ingredienti":"surimi di granchio, avocado, maionese",
+                "prezzo":4
+            },
+                                   {
+                "id":"CS007",
+                "nome":"Sake Temaki",
+                "ingredienti":"salmone, avocado",
+                "prezzo":4
+            },
+            {
+                "id":"CS008",
+                "nome":"Magnum Temaki",
+                "ingredienti":"tonno, avocado",
+                "prezzo":4
+            },
+                                   {
+                "id":"CS009",
+                "nome":"Ebi Tem Temaki",
+                "ingredienti":"gambero fritto, maionese",
+                "prezzo":4
+            },
+            {
+                "id":"CS010",
+                "nome":"Ebi Temaki",
+                "ingredienti":"gambero cotto, avocado, maionese",
+                "prezzo":4
+            },
+                                   {
+                "id":"CS011",
+                "nome":"Spicy Tuna Temaki",
+                "ingredienti":"tonno, avocado, salsa piccante",
+                "prezzo":4.5
+            },
+            {
+                "id":"CS012",
+                "nome":"Spicy Sake Temaki",
+                "ingredienti":"avocado, salsa piccante",
+                "prezzo":4
+            },
+                                   {
+                "id":"CS013",
+                "nome":"Sake Maki",
+                "ingredienti":"salmone",
+                "prezzo":4
+            },
+            {
+                "id":"CS014",
+                "nome":"Tekka Maki",
+                "ingredienti":"tonno",
+                "prezzo":4.5
+            },
+                                   {
+                "id":"CS015",
+                "nome":"Ebi Maki",
+                "ingredienti":"gambero cotto",
+                "prezzo":4
+            },
+            {
+                "id":"CS016",
+                "nome":"Kani Maki",
+                "ingredienti":"surimi di granchio",
+                "prezzo":4
+            },
+                                   {
+                "id":"CS017",
+                "nome":"Sushi Misto",
+                "ingredienti":"7pz nigiri, 4pz hosomaki, 4pz uramaki",
+                "prezzo":15
+            },
+                                   {
+                "id":"CS018",
+                "nome":"Spring Harumaki",
+                "ingredienti":"involtini di verdura",
+                "prezzo":4
+            },
+            {
+                "id":"CS019",
+                "nome":"Niku Gyoza",
+                "ingredienti":"ravioli di carne e verdure",
+                "prezzo":4
+            },
+                                   {
+                "id":"CS020",
+                "nome":"Pane Cinese 2pz",
+                "ingredienti":"-",
+                "prezzo":3.5
+            },
+            {
+                "id":"CS021",
+                "nome":"Nuvole di Drago",
+                "ingredienti":"sfogliatine fritte",
+                "prezzo":3.5
+            },
+                                   {
+                "id":"CS022",
+                "nome":"Curry Rice",
+                "ingredienti":"riso al curry con pollo e verdure",
+                "prezzo":7
+            },
+            {
+                "id":"CS023",
+                "nome":"Yaki Soba",
+                "ingredienti":"spaghetti di grano saraceno con uova e verdure",
+                "prezzo":6.5
+            },
+                                   {
+                "id":"CS024",
+                "nome":"Ramen",
+                "ingredienti":"spaghetti, frutti di mare, uova e verdure",
+                "prezzo":8
+            },
+                           {
+                "id":"CS025",
+                "nome":"Ebi Kushiyaki",
+                "ingredienti":"spiedini di gamberi",
+                "prezzo":7
+            },
+            {
+                "id":"CS026",
+                "nome":"Ika Kushiyaki",
+                "ingredienti":"spiedini di seppia",
+                "prezzo":7.5
+            },
+                                   {
+                "id":"CS027",
+                "nome":"Yakitori",
+                "ingredienti":"spiedini di pollo",
+                "prezzo":6
+            },
+                                   {
+                "id":"CS028",
+                "nome":"Tempura Moriawase",
+                "ingredienti":"gamberi, calamari e verdure fritte",
+                "prezzo":11.5
+            },
+                                   {
+                "id":"CS029",
+                "nome":"Patatine fritte",
+                "ingredienti":"-",
+                "prezzo":3.5
+            }
+        ],
+        "dolce":[
+            {
+                "id":"CD001",
+                "nome":"Gelato Fritto",
+                "ingredienti":"-",
+                "prezzo":4
+            },
+            {
+                "id":"CD002",
+                "nome":"Sorbetto al Limone",
+                "ingredienti":"-",
+                "prezzo":3.50
+            },
+{
+                "id":"CD003",
+                "nome":"Gelato alla Crema",
+                "ingredienti":"-",
+                "prezzo":3.50
+            }
+        ]
+    },
+    "bevande": [
+        {
+            "id":"B001",
+            "nome":"Acqua naturale / frizzante 33 cl",
+            "prezzo":1.3
+        },
+        {
+            "id":"B002",
+            "nome":"Acqua naturale / frizzante 75 cl",
+            "prezzo":2.6
+        },
+        {
+            "id":"B003",
+            "nome":"Coca Cola",
+            "prezzo":2.5
+        },
+        {
+            "id":"B004",
+            "nome":"Fanta",
+            "prezzo":2.5
+        },
+        {
+            "id":"B005",
+            "nome":"Sprite",
+            "prezzo":2.5
+        },
+        {
+            "id":"B006",
+            "nome":"Tè alla Pesca",
+            "prezzo":2.5
+        },
+        {
+            "id":"B007",
+            "nome":"Tè al Limone",
+            "prezzo":2.5
+        },
+        {
+            "id":"B008",
+            "nome":"Tè verde caldo",
+            "prezzo":2.5
+        },
+        {
+            "id":"B009",
+            "nome":"Tè verde freddo",
+            "prezzo":3
+        },
+        {
+            "id":"B010",
+            "nome":"Birra Asahi giapponese 50 cl",
+            "prezzo":5
+        },
+        {
+            "id":"B011",
+            "nome":"Birra Kirin giapponese 33 cl",
+            "prezzo":3.8
+        },
+        {
+            "id":"B012",
+            "nome":"Birra Kirin giapponese 50 cl",
+            "prezzo":5
+        },
+        {
+            "id":"B013",
+            "nome":"Birra Sapporo giapponese 50 cl",
+            "prezzo":5
+        },
+        {
+            "id":"B014",
+            "nome":"Birra Tsingtao cinese 64 cl",
+            "prezzo":3.5
+        },
+        {
+            "id":"B015",
+            "nome":"Birra Becks 33 cl",
+            "prezzo":3
+        },
+        {
+            "id":"B016",
+            "nome":"Birra Ceres 33 cl",
+            "prezzo":3.5
+        },
+        {
+            "id":"B017",
+            "nome":"Birra Moretti 66 cl",
+            "prezzo":3.5
+        }
+    ],
+    "menu": [
+        {
+            "id":"M001",
+            "nome":"All you can eat",
+            "descrizione":"-",
+            "prezzo": 12.9
+        },
+        {
+            "id":"M002",
+            "nome":"Menu' Bimbi",
+            "descrizione":"-",
+            "prezzo": 7.9
+        }
+    ]
 }]
