@@ -356,10 +356,12 @@
             "nome": "Piadina con salame e sottiletta/mozzarella",
             "ingredienti": "-",
             "prezzo":4
+        },
+        {
+            "dolce":[]
         }
         ]
     },
-    "dolce":[],
     "bevande": [
         {
             "id":"B001",
@@ -483,218 +485,221 @@
     "email": "-",
     "latitudine": 44.6456,
     "longitudine": 7.490931,
-    "cibi": [
-        {
-            "id":"C001",
-            "nome":"Hamburger",
-            "prezzo":3.5
-        },
-        {
-            "id":"C002",
-            "nome":"Cheeseburger",
-            "prezzo":4
-        },
-        {
-            "id":"C003",
-            "nome":"Bacon Cheeseburger",
-            "prezzo":5
-        },
-        {
-            "id":"C004",
-            "nome":"Super Bacon",
-            "prezzo":5
-        },
-        {
-            "id":"C005",
-            "nome":"American",
-            "prezzo":5
-        },
-        {
-            "id":"C006",
-            "nome":"Sausage Burger",
-            "prezzo":4
-        },
-        {
-            "id":"C007",
-            "nome":"Sausage Bacon Burger",
-            "prezzo":5
-        },
-        {
-            "id":"C008",
-            "nome":"Grilled Chicken Burger",
-            "prezzo":4
-        },
-        {
-            "id":"C009",
-            "nome":"Chicken Burger",
-            "prezzo":4
-        },
-        {
-            "id":"C010",
-            "nome":"Chicken Bacon",
-            "prezzo":5
-        },
-        {
-            "id":"C011",
-            "nome":"Hamburger Vegetariano",
-            "prezzo":3.5
-        },
-        {
-            "id":"C012",
-            "nome":"Piemontese Maxi da 200g",
-            "prezzo":7
-        },
-        {
-            "id":"C013",
-            "nome":"Angus irlandese Maxi da 200g",
-            "prezzo":7
-        },
-        {
-            "id":"C014",
-            "nome":"Fiorentino Maxi da 200g",
-            "prezzo":7
-        },
-        {
-            "id":"C015",
-            "nome":"Sausage Bacon Burger",
-            "prezzo":5
-        },
-        {
-            "id":"C016",
-            "nome":"Piadina pomodoro e mozzarella",
-            "prezzo":4
-        },
-        {
-            "id":"C017",
-            "nome":"Piadina cotto e formaggio",
-            "prezzo":4
-        },
-        {
-            "id":"C018",
-            "nome":"Piadina cotto, mozzarella e funghi",
-            "prezzo":4
-        },
-        {
-            "id":"C019",
-            "nome":"Piadina speck e brie",
-            "prezzo":4
-        },
-        {
-            "id":"C020",
-            "nome":"Piadina speck e gorgonzola",
-            "prezzo":4
-        },
-        {
-            "id":"C021",
-            "nome":"Piadina salame e formaggio",
-            "prezzo":4
-        },
-        {
-            "id":"C022",
-            "nome":"Piadina crudo e brie",
-            "prezzo":4.5
-        },
-        {
-            "id":"C023",
-            "nome":"Piadina crudo e gorgonzola",
-            "prezzo":4.5
-        },
-        {
-            "id":"C024",
-            "nome":"Piadina stracchino e rucola",
-            "prezzo":4
-        },
-        {
-            "id":"C025",
-            "nome":"Piadina crudo, stracchino e rucola",
-            "prezzo":4.5
-        },
-        {
-            "id":"C026",
-            "nome":"Piadina crudo e mozzarella",
-            "prezzo":4.5
-        },
-        {
-            "id":"C027",
-            "nome":"Piadina 4 formaggi",
-            "prezzo":4
-        },
-        {
-            "id":"C028",
-            "nome":"Piadina porchetta, maionese e rucola",
-            "prezzo":4
-        },
-        {
-            "id":"C029",
-            "nome":"Piadina bresaola, parmigiano e rucola",
-            "prezzo":4.5
-        },
-        {
-            "id":"C030",
-            "nome":"Gnocchi al pomodoro",
-            "prezzo":6
-        },
-        {
-            "id":"C031",
-            "nome":"Gnocchi ai formaggi",
-            "prezzo":6
-        },
-        {
-            "id":"C032",
-            "nome":"Ravioli al ragù",
-            "prezzo":6
-        },
-        {
-            "id":"C033",
-            "nome":"Tagliatelle al ragù",
-            "prezzo":6
-        },
-        {
-            "id":"C034",
-            "nome":"Crepes alla nutella",
-            "prezzo":3.5
-        },
-        {
-            "id":"C035",
-            "nome":"Crepes alla marmellata",
-            "prezzo":3.5
-        },
-        {
-            "id":"C036",
-            "nome":"Cuore caldo al cioccolato",
-            "prezzo":3.5
-        },
-        {
-            "id":"C037",
-            "nome":"Meringata",
-            "prezzo":3.5
-        },
-        {
-            "id":"C038",
-            "nome":"Soft tiramisù",
-            "prezzo":4
-        },
-        {
-            "id":"C039",
-            "nome":"Gelato",
-            "prezzo":3.5
-        },
-        {
-            "id":"C040",
-            "nome":"Insalata Mista",
-            "prezzo":6
-        },
-        {
-            "id":"C041",
-            "nome":"Insalata mista con prosciutto",
-            "prezzo":7
-        },
-        {
-            "id":"C042",
-            "nome":"Caesar salad",
-            "prezzo":7
-        }
-    ],
+    "cibi": {
+        "salato":[
+            {
+                "id":"C001",
+                "nome":"Hamburger",
+                "prezzo":3.5
+            },
+            {
+                "id":"C002",
+                "nome":"Cheeseburger",
+                "prezzo":4
+            },
+            {
+                "id":"C003",
+                "nome":"Bacon Cheeseburger",
+                "prezzo":5
+            },
+            {
+                "id":"C004",
+                "nome":"Super Bacon",
+                "prezzo":5
+            },
+            {
+                "id":"C005",
+                "nome":"American",
+                "prezzo":5
+            },
+            {
+                "id":"C006",
+                "nome":"Sausage Burger",
+                "prezzo":4
+            },
+            {
+                "id":"C007",
+                "nome":"Sausage Bacon Burger",
+                "prezzo":5
+            },
+            {
+                "id":"C008",
+                "nome":"Grilled Chicken Burger",
+                "prezzo":4
+            },
+            {
+                "id":"C009",
+                "nome":"Chicken Burger",
+                "prezzo":4
+            },
+            {
+                "id":"C010",
+                "nome":"Chicken Bacon",
+                "prezzo":5
+            },
+            {
+                "id":"C011",
+                "nome":"Hamburger Vegetariano",
+                "prezzo":3.5
+            },
+            {
+                "id":"C012",
+                "nome":"Piemontese Maxi da 200g",
+                "prezzo":7
+            },
+            {
+                "id":"C013",
+                "nome":"Angus irlandese Maxi da 200g",
+                "prezzo":7
+            },
+            {
+                "id":"C014",
+                "nome":"Fiorentino Maxi da 200g",
+                "prezzo":7
+            },
+            {
+                "id":"C015",
+                "nome":"Sausage Bacon Burger",
+                "prezzo":5
+            },
+            {
+                "id":"C016",
+                "nome":"Piadina pomodoro e mozzarella",
+                "prezzo":4
+            },
+            {
+                "id":"C017",
+                "nome":"Piadina cotto e formaggio",
+                "prezzo":4
+            },
+            {
+                "id":"C018",
+                "nome":"Piadina cotto, mozzarella e funghi",
+                "prezzo":4
+            },
+            {
+                "id":"C019",
+                "nome":"Piadina speck e brie",
+                "prezzo":4
+            },
+            {
+                "id":"C020",
+                "nome":"Piadina speck e gorgonzola",
+                "prezzo":4
+            },
+            {
+                "id":"C021",
+                "nome":"Piadina salame e formaggio",
+                "prezzo":4
+            },
+            {
+                "id":"C022",
+                "nome":"Piadina crudo e brie",
+                "prezzo":4.5
+            },
+            {
+                "id":"C023",
+                "nome":"Piadina crudo e gorgonzola",
+                "prezzo":4.5
+            },
+            {
+                "id":"C024",
+                "nome":"Piadina stracchino e rucola",
+                "prezzo":4
+            },
+            {
+                "id":"C025",
+                "nome":"Piadina crudo, stracchino e rucola",
+                "prezzo":4.5
+            },
+            {
+                "id":"C026",
+                "nome":"Piadina crudo e mozzarella",
+                "prezzo":4.5
+            },
+            {
+                "id":"C027",
+                "nome":"Piadina 4 formaggi",
+                "prezzo":4
+            },
+            {
+                "id":"C028",
+                "nome":"Piadina porchetta, maionese e rucola",
+                "prezzo":4
+            },
+            {
+                "id":"C029",
+                "nome":"Piadina bresaola, parmigiano e rucola",
+                "prezzo":4.5
+            },
+            {
+                "id":"C030",
+                "nome":"Gnocchi al pomodoro",
+                "prezzo":6
+            },
+            {
+                "id":"C031",
+                "nome":"Gnocchi ai formaggi",
+                "prezzo":6
+            },
+            {
+                "id":"C032",
+                "nome":"Ravioli al ragù",
+                "prezzo":6
+            },
+            {
+                "id":"C033",
+                "nome":"Tagliatelle al ragù",
+                "prezzo":6
+            },
+            {
+                "id":"C034",
+                "nome":"Crepes alla nutella",
+                "prezzo":3.5
+            },
+            {
+                "id":"C035",
+                "nome":"Crepes alla marmellata",
+                "prezzo":3.5
+            },
+            {
+                "id":"C036",
+                "nome":"Cuore caldo al cioccolato",
+                "prezzo":3.5
+            },
+            {
+                "id":"C037",
+                "nome":"Meringata",
+                "prezzo":3.5
+            },
+            {
+                "id":"C038",
+                "nome":"Soft tiramisù",
+                "prezzo":4
+            },
+            {
+                "id":"C039",
+                "nome":"Gelato",
+                "prezzo":3.5
+            },
+            {
+                "id":"C040",
+                "nome":"Insalata Mista",
+                "prezzo":6
+            },
+            {
+                "id":"C041",
+                "nome":"Insalata mista con prosciutto",
+                "prezzo":7
+            },
+            {
+                "id":"C042",
+                "nome":"Caesar salad",
+                "prezzo":7
+            }
+        ],
+        "dolce":[]
+    },
     "bevande": [
         {
             "id":"B001",
@@ -809,7 +814,7 @@
                 "ingredienti":"-",
                 "prezzo":3
             },
-                                   {
+            {
                 "id":"CS003",
                 "nome":"Nigiri gambero - 2pz",
                 "ingredienti":"-",
@@ -821,7 +826,7 @@
                 "ingredienti":"-",
                 "prezzo":3
             },
-                                   {
+            {
                 "id":"CS005",
                 "nome":"Sashimi - 9pz",
                 "ingredienti":"-",
@@ -833,7 +838,7 @@
                 "ingredienti":"surimi di granchio, avocado, maionese",
                 "prezzo":4
             },
-                                   {
+            {
                 "id":"CS007",
                 "nome":"Sake Temaki",
                 "ingredienti":"salmone, avocado",
@@ -845,7 +850,7 @@
                 "ingredienti":"tonno, avocado",
                 "prezzo":4
             },
-                                   {
+            {
                 "id":"CS009",
                 "nome":"Ebi Tem Temaki",
                 "ingredienti":"gambero fritto, maionese",
@@ -857,7 +862,7 @@
                 "ingredienti":"gambero cotto, avocado, maionese",
                 "prezzo":4
             },
-                                   {
+            {
                 "id":"CS011",
                 "nome":"Spicy Tuna Temaki",
                 "ingredienti":"tonno, avocado, salsa piccante",
@@ -869,7 +874,7 @@
                 "ingredienti":"avocado, salsa piccante",
                 "prezzo":4
             },
-                                   {
+            {
                 "id":"CS013",
                 "nome":"Sake Maki",
                 "ingredienti":"salmone",
@@ -881,7 +886,7 @@
                 "ingredienti":"tonno",
                 "prezzo":4.5
             },
-                                   {
+            {
                 "id":"CS015",
                 "nome":"Ebi Maki",
                 "ingredienti":"gambero cotto",
@@ -893,13 +898,13 @@
                 "ingredienti":"surimi di granchio",
                 "prezzo":4
             },
-                                   {
+            {
                 "id":"CS017",
                 "nome":"Sushi Misto",
                 "ingredienti":"7pz nigiri, 4pz hosomaki, 4pz uramaki",
                 "prezzo":15
             },
-                                   {
+            {
                 "id":"CS018",
                 "nome":"Spring Harumaki",
                 "ingredienti":"involtini di verdura",
@@ -911,7 +916,7 @@
                 "ingredienti":"ravioli di carne e verdure",
                 "prezzo":4
             },
-                                   {
+            {
                 "id":"CS020",
                 "nome":"Pane Cinese 2pz",
                 "ingredienti":"-",
@@ -923,7 +928,7 @@
                 "ingredienti":"sfogliatine fritte",
                 "prezzo":3.5
             },
-                                   {
+            {
                 "id":"CS022",
                 "nome":"Curry Rice",
                 "ingredienti":"riso al curry con pollo e verdure",
@@ -935,13 +940,13 @@
                 "ingredienti":"spaghetti di grano saraceno con uova e verdure",
                 "prezzo":6.5
             },
-                                   {
+            {
                 "id":"CS024",
                 "nome":"Ramen",
                 "ingredienti":"spaghetti, frutti di mare, uova e verdure",
                 "prezzo":8
             },
-                           {
+            {
                 "id":"CS025",
                 "nome":"Ebi Kushiyaki",
                 "ingredienti":"spiedini di gamberi",
@@ -953,19 +958,19 @@
                 "ingredienti":"spiedini di seppia",
                 "prezzo":7.5
             },
-                                   {
+            {
                 "id":"CS027",
                 "nome":"Yakitori",
                 "ingredienti":"spiedini di pollo",
                 "prezzo":6
             },
-                                   {
+            {
                 "id":"CS028",
                 "nome":"Tempura Moriawase",
                 "ingredienti":"gamberi, calamari e verdure fritte",
                 "prezzo":11.5
             },
-                                   {
+            {
                 "id":"CS029",
                 "nome":"Patatine fritte",
                 "ingredienti":"-",
@@ -985,7 +990,7 @@
                 "ingredienti":"-",
                 "prezzo":3.50
             },
-{
+            {
                 "id":"CD003",
                 "nome":"Gelato alla Crema",
                 "ingredienti":"-",
