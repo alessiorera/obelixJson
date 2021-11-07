@@ -356,11 +356,9 @@
             "nome": "Piadina con salame e sottiletta/mozzarella",
             "ingredienti": "-",
             "prezzo":4
-        },
-        {
-            "dolce":[]
         }
-        ]
+        ],
+            "dolce":[]
     },
     "bevande": [
         {
