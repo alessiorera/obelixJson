@@ -5,36 +5,36 @@
         <B>Guelfi Neri</B>
         <C>Ghibellini</C>
         <D>Nessuna delle precedenti risposte è corretta</D>
-    <domanda>
+    </domanda>
      <domanda testo="Quali sono le opere più famose di Dante?" corretta="D">
         <A>La Divina Commedia, il Decameron, la Vita Nuova</A>
         <B>La Divina Commedia, il Filòstrato, il Convivio</B>
         <C>Il Decameron, il Filòcolo, il Secretum</C>
         <D>La Divina Commedia, la Vita Nuova, il De vulgari eloquentia</D>
-    <domanda>
+    </domanda>
     <domanda testo="La Divina Commedia è divisa in cantiche, quante sono in totale?" corretta="C">
         <A>6</A>
         <B>10</B>
         <C>3</C>
         <D>33</D>
-    <domanda>
-      <domanda testo="A che età Dante incontra Beatrice per la prima volta?" corretta="A">
-      <A>9 anni</A>
-      <B>18 anni</B>
-      <C>23 anni</C>
-      <D>Non l'ha mai incontrata</D>
+    </domanda>
+    <domanda testo="A che età Dante incontra Beatrice per la prima volta?" corretta="A">
+        <A>9 anni</A>
+        <B>18 anni</B>
+        <C>23 anni</C>
+        <D>Non l'ha mai incontrata</D>
    </domanda>
    <domanda testo="Con chi si sposa Dante, all'età di 20 anni?" corretta="B">
-      <A>Beatrice</A>
-      <B>Gemma Donati</B>
-      <C>Bella degli Abati</C>
-      <D>Teresa di Blasco</D>
+        <A>Beatrice</A>
+        <B>Gemma Donati</B>
+        <C>Bella degli Abati</C>
+        <D>Teresa di Blasco</D>
    </domanda>
    <domanda testo="In quale cerchio dell'Inferno vengono puniti i lussuriosi?" corretta="C">
-      <A>Non sono all'inferno</A>
-      <B>Quattordicesimo</B>
-      <C>Secondo</C>
-      <D>Primo</D>
+        <A>Non sono all'inferno</A>
+        <B>Quattordicesimo</B>
+        <C>Secondo</C>
+        <D>Primo</D>
    </domanda>
       <domanda testo="A quale corrente letteraria aderì Dante?" corretta="A">
         <A>Stilnovismo</A>
