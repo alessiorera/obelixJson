@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <domande>
-   <domanda testo="Quanti anni aveva Dante alla Morte?" corretta="A">
-      <A>20</A>
-      <B>20</B>
-      <C>20</C>
-      <D>20</D>
-   </domanda>
-   <domanda testo="Quanti anni aveva Dante alla Morte?" corretta="A">
-      <A>20</A>
-      <B>20</B>
-      <C>20</C>
-      <D>20</D>
-   </domanda>
-   <domanda testo="Quanti anni aveva Dante alla Morte?" corretta="A">
-      <A>20</A>
-      <B>20</B>
-      <C>20</C>
-      <D>20</D>
-   </domanda>
+   <domanda testo="A quale fazione politica apparteneva Dante?" corretta="A">
+        <A>Guelfi bianchi</A>
+        <B>Guelfi Neri</B>
+        <C>Ghibellini</C>
+        <D>Nessuna delle precedenti risposte è corretta</D>
+    <domanda>
+     <domanda testo="Quali sono le opere più famose di Dante?" corretta="D">
+        <A>La Divina Commedia, il Decameron, la Vita Nuova</A>
+        <B>La Divina Commedia, il Filòstrato, il Convivio</B>
+        <C>Il Decameron, il Filòcolo, il Secretum</C>
+        <D>La Divina Commedia, la Vita Nuova, il De vulgari eloquentia</D>
+    <domanda>
+    <domanda testo="La Divina Commedia è divisa in cantiche, quante sono in totale?" corretta="C">
+        <A>6</A>
+        <B>10</B>
+        <C>3</C>
+        <D>33</D>
+    <domanda>
 </domande>
