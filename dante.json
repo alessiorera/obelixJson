@@ -46,5 +46,29 @@
         "C":"Secondo",
         "D":"Primo",
         "corretta":"C"
+    },
+    {
+        "testo": "A quale corrente letteraria aderì Dante?",
+        "A": "Stilnovismo",
+        "B": "Classicismo",
+        "C": "Futurismo",
+        "D": "Neorealismo",
+        "corretta": "A"
+    },
+    {
+        "testo": "Da chi viene accompagnato Dante nella Divina commedia?",
+        "A": "Catone",
+        "B": "Casella",
+        "C": "Virgilio",
+        "D": "Filippo Argenti",
+        "corretta": "C"
+    },
+    {
+        "testo": "Come si chiama la donna amata da Dante?",
+        "A": "Vittoria",
+        "B": "Barbara",
+        "C": "Aurora",
+        "D": "Beatrice",
+        "corretta": "D"
     }
 ]
