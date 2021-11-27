@@ -54,4 +54,22 @@
         <C>Aurora</C>
         <D>Beatrice</D>
     </domanda>
+    <domanda testo="Quanti cantoni ci sono nell'inferno?" corretta="D">
+         <A>21</A>
+         <B>39</B>
+         <C>100</C>
+         <D>34</D>
+     </domanda>
+      <domanda testo="Quali sono i tre peccati che rapprensentano gli animali del primo canto?" corretta="B">
+         <A>Furbizia, lussuria e avarizia</A>
+         <B>Avarizia, superbia e invidia</B>
+         <C>Non viene citato nessun animale nel primo canto</C>
+         <D>Rabbia, tristezza e suicidio</D>
+      </domanda>
+      <domanda testo="Dove studia Dante?" corretta="C">
+         <A>Ha studiato in autonomia</A>
+         <B>Università di Firenze</B>
+         <C>Università di Bologna</C>
+         <D>A Parigi</D>
+      </domanda>
 </domande>
