@@ -94,5 +94,29 @@
         "C":"Univertità di Bologna",
         "D":"A Parigi",
         "corretta": "C"
+    },
+     {
+        "testo": "Dante è considerato padre assoluto",
+        "A":"Della scrittura",
+        "B":"Della lingua italiana",
+        "C":"Del latino",
+        "D":"Nessuna delle precedenti",
+        "corretta": "B"
+    },
+    {
+        "testo": "Quale opera letteraria dedica Dante a Beatrice?",
+        "A": "La Vita Nuova",
+        "B": "Il Convivio",
+        "C":"Il Decameron",
+        "D": "La Divina Commedia",
+        "corretta": "A"
+    },
+    {
+        "testo": "In che anno fu condannato Dante?",
+        "A": "1354",
+        "B": "1295",
+        "C":"1504",
+        "D": "1302",
+        "corretta": "D"
     }
 ]
