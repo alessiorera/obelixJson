@@ -72,4 +72,22 @@
          <C>Università di Bologna</C>
          <D>A Parigi</D>
       </domanda>
+       <domanda testo="Dante è considerato padre assoluto" corretta="B">
+          <A>Della scrittura</A>
+          <B>Della lingua italiana</B>
+          <C>Del latino</C>
+          <D>Nessuna delle precedenti</D>
+       </domanda>
+       <domanda testo="Quale opera letteraria dedica Dante a Beatrice?" corretta="A">
+          <A>La Vita Nuova</A>
+          <B>Il Convivio</B>
+          <C>Il Decameron</C>
+          <D>La Divina Commedia</D>
+       </domanda>
+       <domanda  testo="In che anno fu condannato Dante?" corretta="D">
+          <A>1354</A>
+          <B>1295</B>
+          <C>1504</C>
+          <D>1302</D>
+       </domanda>
 </domande>
