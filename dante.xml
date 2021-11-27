@@ -18,4 +18,22 @@
         <C>3</C>
         <D>33</D>
     <domanda>
+      <domanda testo="A che età Dante incontra Beatrice per la prima volta?" corretta="A">
+      <A>9 anni</A>
+      <B>18 anni</B>
+      <C>23 anni</C>
+      <D>Non l'ha mai incontrata</D>
+   </domanda>
+   <domanda testo="Con chi si sposa Dante, all'età di 20 anni?" corretta="B">
+      <A>Beatrice</A>
+      <B>Gemma Donati</B>
+      <C>Bella degli Abati</C>
+      <D>Teresa di Blasco</D>
+   </domanda>
+   <domanda testo="In quale cerchio dell'Inferno vengono puniti i lussuriosi?" corretta="C">
+      <A>Non sono all'inferno</A>
+      <B>Quattordicesimo</B>
+      <C>Secondo</C>
+      <D>Primo</D>
+   </domanda>
 </domande>
