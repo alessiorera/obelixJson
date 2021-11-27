@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<domande>
+   <domanda testo="Quanti anni aveva Dante alla Morte?" corretta="A">
+      <A>20</A>
+      <B>20</B>
+      <C>20</C>
+      <D>20</D>
+   </domanda>
+   <domanda testo="Quanti anni aveva Dante alla Morte?" corretta="A">
+      <A>20</A>
+      <B>20</B>
+      <C>20</C>
+      <D>20</D>
+   </domanda>
+   <domanda testo="Quanti anni aveva Dante alla Morte?" corretta="A">
+      <A>20</A>
+      <B>20</B>
+      <C>20</C>
+      <D>20</D>
+   </domanda>
+</domande>
