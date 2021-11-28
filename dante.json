@@ -238,5 +238,53 @@
         "C":"Vuole dare insegnamenti sulla vita",
         "D": "Vuole insegnare ricette golose da fare con i parenti",
         "corretta": "B"
+    },
+    {
+        "testo": "Da quanti Cerchi è composto l'inferno?",
+        "A": "11",
+        "B": "9",
+        "C":"10",
+        "D": "3",
+        "corretta": "B"
+    },
+    {
+        "testo": "Cosa è presente ai piedi della montagna del Purgatorio?",
+        "A": "Un fiume",
+        "B": "Una selva",
+        "C":"Una spiaggia",
+        "D": "Nessuna delle presenti risposte è corretta",
+        "corretta": "C"
+    },
+    {
+        "testo": "In quale Cerchio dell'Inferno vengono puniti i Traditori?",
+        "A": "9",
+        "B": "5",
+        "C":"8",
+        "D": "6",
+        "corretta": "A"
+    },
+     {
+        "testo": "Quali sono le tre fiere che Dante incontra nel primo canto dell'inferno?",
+        "A": "L'Armadillo, lo Scorpione, la Giraffa",
+        "B": "La Lonza, la Lupa e il Leone",
+        "C":"Il Cervo, l''Unicorno, il Pegasus",
+        "D": "Nessuna Fiera viene incontrata.",
+        "corretta": "B"
+    },
+    {
+        "testo": "Come si chiama quello che possiamo considerare il suo migliore amico?",
+        "A": "Giovanni Boccaccio",
+        "B": "Aristotele",
+        "C":"Zerocalcare",
+        "D": "Guido Cavalcanti",
+        "corretta": "D"
+    },
+    {
+        "testo": "Cosa fa Beatrice quando incontra Dante alla fine del purgatorio?",
+        "A": "Si comporta duramente nei suoi confronti",
+        "B": "Si concedono al lusso del coito.",
+        "C":"Pranzano insieme ad Adamo ed Eva",
+        "D": "Conforta Dante per l'abbandono di Virgilio",
+        "corretta": "A"
     }
 ]
