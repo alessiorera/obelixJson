@@ -307,4 +307,22 @@
         <C>Giovanni Boccaccio</C>
         <D>Brunetto Latini</D>
     </domanda>
+   <domanda testo="Quale lingua elogiava Dante?" corretta="A">
+        <A>Volgare</A>
+        <B>Latino</B>
+        <C>Francese</C>
+        <D>Italiano</D>
+    </domanda>
+     <domanda testo="Dove e come viene riportato il numero 3 nella Divina Commedia?" corretta="D">
+        <A>Nel numero di volte in cui Dante sviene</A>
+        <B>Nel numero di Protagonisti</B>
+        <C>Nel numero di accompagnatori</C>
+        <D>Nel numero di cantiche</D>
+    </domanda>
+    <domanda testo="Con chi era sposato Dante?" corretta="C">
+        <A>Beatrice Portinari</A>
+        <B>Beatrice Donati</B>
+        <C>Gemma Donati</C>
+        <D>Gemma Portinari</D>
+    </domanda>
 </domande>
