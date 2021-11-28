@@ -162,4 +162,22 @@
       <C>Piú di 5</C>
       <D>2</D>
    </domanda>
+   <domanda testo="Qual era il vero titolo della Divina Commedia?" corretta="A">
+        <A>La commedia</A>
+        <B>Il Divina</B>
+        <C>L'Ultima Commedia</C>
+        <D>Divina Commedia</D>
+    </domanda>
+    <domanda testo="Chi decise di aggiungere l'aggettivo Divina al titolo 'La Commedia'?" corretta="C">
+        <A>Goldoni</A>
+        <B>Dante</B>
+        <C>Boccaccio</C>
+        <D>Virgilio</D>
+    </domanda>
+    <domanda  testo="Perchè la Divina Commedia si può definire un poema didascalico?" corretta="B">
+        <A>Non vuole insegnare niente</A>
+        <B>Vuole insegnare sulle grandi verità morali e religiose</B>
+        <C>Vuole dare insegnamenti sulla vita</C>
+        <D>Vuole insegnare ricette golose da fare con i parenti</D>
+    </domanda>
 </domande>
