@@ -358,5 +358,29 @@
         "C": "Nel Paradiso",
         "D": "Firenze",
         "corretta": "A"
+    },
+    {
+        "testo": "Che significato aveva il giunco per dante?",
+        "A": "Umiltà",
+        "B": "Odio",
+        "C":"Amore",
+        "D": "Nessuna delle precedenti risposte è corretta",
+        "corretta": "A"
+    },
+    {
+        "testo": "Chi erano i destinatari della poesia stilnovistica?",
+        "A": "Solo alla borghesia",
+        "B": "A tutto il popolo",
+        "C":"Persone con animo amorevole",
+        "D": "Persone con animo nobile",
+        "corretta": "D"
+    },
+    {
+        "testo": "A cosa allude il titolo Convivio?",
+        "A": "A un ritrovo di dotti che disquisiscono di filosofia e poesia",
+        "B": "Alla circolazione del sapere presso un circolo di lettori che parlano il volgare e non il latino",
+        "C":"All’influsso della filosofia aristotelica",
+        "D": "Al banchetto culturale offerto dal poeta attraverso le poesie e i commenti in prosa della sua opera",
+        "corretta": "D"
     }
 ]
