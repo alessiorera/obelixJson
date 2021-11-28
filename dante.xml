@@ -216,4 +216,22 @@
           <C>Pranzano insieme ad Adamo ed Eva</C>
           <D>Conforta Dante per l'abbandono di Virgilio</D>
        </domanda>
+      <domanda testo="Qual è la metrica utilizzata?" corretta="C">
+         <A>Novenario</A>
+         <B>Decasillabo</B>
+         <C>Endecasillabi</C>
+         <D>Dodecasillabo</D>
+      </domanda>
+      <domanda testo="Quali numeri si ripresentano spesso nella divina commedia?" corretta="A">
+         <A>3, 7, 9</A>
+         <B>2, 4, 8</B>
+         <C>8, 12, 15</C>
+         <D>3, 12, 13</D>
+      </domanda>
+      <domanda testo="Cosa rappresenta Dante nella Divina Commedia?" corretta="C">
+         <A>Una guida spirituale</A>
+         <B>Un uomo di fede</B>
+         <C>L'uomo peccatore</C>
+         <D>Le virtù dell'uomo</D>
+      </domanda>
 </domande>
