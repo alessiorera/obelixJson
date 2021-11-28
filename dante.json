@@ -118,5 +118,29 @@
         "C":"1504",
         "D": "1302",
         "corretta": "D"
+    },
+    {
+        "testo": "Chi è il traghettatore di anime dell'Inferno?",
+        "A": "Virgilio",
+        "B": "Catone",
+        "C":"Caronte",
+        "D": "Marco Lombardo",
+        "corretta": "C"
+    },
+    {
+        "testo": "Chi si trova al fondo dell'Inferno?",
+        "A": "Manfredi",
+        "B": "Lucifero",
+        "C":"Beatrice",
+        "D": "Nessuna delle precedenti",
+        "corretta": "B"
+    },
+    {
+        "testo": "Quanti sono in totale i canti della Divina commedia?",
+        "A": "99",
+        "B": "33",
+        "C":"100",
+        "D": "50",
+        "corretta": "C"
     }
 ]
