@@ -90,4 +90,22 @@
           <C>1504</C>
           <D>1302</D>
        </domanda>
+      <domanda testo="Chi è il traghettatore di anime dell'Inferno?" corretta="C">
+        <A>Virgilio</A>
+        <B>Catone</B>
+        <C>Caronte</C>
+        <D>Marco Lombardo</D>
+    </domanda>
+    <domanda testo="Chi si trova al fondo dell'Inferno?" corretta="B">
+        <A>Manfredi</A>
+        <B>Lucifero</B>
+        <C>Beatrice</C>
+        <D>Nessuna delle precedenti</D>
+    </domanda>
+    <domanda testo="Quanti sono in totale i canti della Divina commedia?" corretta="C">
+        <A>99</A>
+        <B>33</B>
+        <C>100</C>
+        <D>50</D>
+    </domanda>
 </domande>
