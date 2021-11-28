@@ -198,21 +198,45 @@
     "C":"Venezia",
     "D":"Milano",
     "corretta":"A"
-},
-{
-    "testo":"Quanti figli ha avuto?",
-    "A":"2",
-    "B":"7",
-    "C":"4",
-    "D":"Non ha avuto figli",
-    "corretta":"C"
-},
-{
-    "testo":"Quante volte ha incontrato Beatrice?",
-    "A":"Mai",
-    "B":"5",
-    "C":"Piú di 5",
-    "D":"2",
-    "corretta":"D"
-}
+    },
+    {
+        "testo":"Quanti figli ha avuto?",
+        "A":"2",
+        "B":"7",
+        "C":"4",
+        "D":"Non ha avuto figli",
+        "corretta":"C"
+    },
+    {
+        "testo":"Quante volte ha incontrato Beatrice?",
+        "A":"Mai",
+        "B":"5",
+        "C":"Piú di 5",
+        "D":"2",
+        "corretta":"D"
+    },
+    {
+        "testo": "Qual era il vero titolo della Divina Commedia?",
+        "A": "La commedia",
+        "B": "Il Divina",
+        "C":"L'Ultima Commedia",
+        "D": "Divina Commedia",
+        "corretta": "A"
+    },
+    {
+        "testo": "Chi decise di aggiungere l'aggettivo Divina al titolo 'La Commedia'?",
+        "A": "Goldoni",
+        "B": "Dante",
+        "C":"Boccaccio",
+        "D": "Virgilio",
+        "corretta": "C"
+    },
+    {
+        "testo": "Perchè la Divina Commedia si può definire un poema didascalico?",
+        "A": "Non vuole insegnare niente",
+        "B": "Vuole insegnare sulle grandi verità morali e religiose",
+        "C":"Vuole dare insegnamenti sulla vita",
+        "D": "Vuole insegnare ricette golose da fare con i parenti",
+        "corretta": "B"
+    }
 ]
