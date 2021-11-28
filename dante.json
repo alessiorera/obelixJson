@@ -382,5 +382,29 @@
         "C":"All’influsso della filosofia aristotelica",
         "D": "Al banchetto culturale offerto dal poeta attraverso le poesie e i commenti in prosa della sua opera",
         "corretta": "D"
+    },
+    {
+        "testo": "Dove è sepolto il corpo di Dante?",
+        "A": "Firenze",
+        "B": "Ravenna",
+        "C": "Roma",
+        "D": "Torino",
+        "corretta": "B"
+    },
+    {
+        "testo": "Con quale parola finisce ogni Cantica della Divina Commedia",
+        "A": "Tre",
+        "B": "Amore",
+        "C": "Stelle",
+        "D": "Dio",
+        "corretta": "C"
+    },
+    {
+        "testo": "Chi è il maestro di Dante?",
+        "A": "Guido Cavalcanti",
+        "B": "Jacopo Alighieri",
+        "C": "Giovanni Boccaccio",
+        "D": "Brunetto Latini",
+        "corretta": "D"
     }
 ]
