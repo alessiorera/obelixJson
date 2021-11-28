@@ -310,5 +310,29 @@
         "C":"L'uomo peccatore",
         "D":"Le virtù dell'uomo",
         "corretta":"C"
+    },
+    {
+        "testo": "Chi è Virgilio e qual è il suo significato allegorico?",
+        "A": "Virgilio è un imperatore e come figura allegorica rappresenta il potere",
+        "B": "Virgilio è un amico d'infanzia di Dante e come figura allegorica rappresenta il legame",
+        "C":"Virgilio è un poeta e come figura allegorica rappresenta la conoscenza",
+        "D": "Virgilio è un poeta e come figura allegorica rappresenta la ragione umana",
+        "corretta": "D"
+    },
+    {
+        "testo": "Quando ha inizio il viaggio di Dante?",
+        "A": "All'inizio della sua vita",
+        "B": "A metà della sua vita",
+        "C":"Alla fine della sua vita",
+        "D": "Non è specificato",
+        "corretta": "B"
+    },
+    {
+        "testo": "Dove si trova Dante all'inizio del primo canto dell'Inferno?",
+        "A": "In un bosco",
+        "B": "In un prato",
+        "C":"In una selva oscura",
+        "D": "In una spiaggia",
+        "corretta": "C"
     }
 ]
