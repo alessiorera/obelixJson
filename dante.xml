@@ -180,4 +180,40 @@
         <C>Vuole dare insegnamenti sulla vita</C>
         <D>Vuole insegnare ricette golose da fare con i parenti</D>
     </domanda>
+   <domanda testo="Da quanti Cerchi è composto l'inferno?" corretta="B">
+        <A>11</A>
+        <B>9</B>
+        <C>3</C>
+        <D>10</D>
+    </domanda>
+     <domanda testo="Cosa è presente ai piedi della montagna del Purgatorio?" corretta="C">
+        <A>Un fiume</A>
+        <B>Una selva</B>
+        <C>Una spiaggia</C>
+        <D>Nessuna delle presenti risposte è corretta</D>
+    </domanda>
+    <domanda testo="La Divina Commedia è divisa in cantiche, quante sono in totale?" corretta="A">
+        <A>9</A>
+        <B>5</B>
+        <C>8</C>
+        <D>6</D>
+    </domanda>
+   <domanda testo="Quali sono le tre fiere che Dante incontra nel primo canto dell'inferno?" corretta="B">
+          <A>L'Armadillo, lo Scorpione, la Giraffa</A>
+          <B>La Lonza, la Lupa e il Leone</B>
+          <C>Il Cervo, l''Unicorno, il Pegasus</C>
+          <D>Nessuna Fiera viene incontrata</D>
+       </domanda>
+       <domanda testo="Come si chiama quello che possiamo considerare il suo migliore amico?" corretta="D">
+          <A>Giovanni Boccaccio</A>
+          <B>Aristotele</B>
+          <C>Zerocalcare</C>
+          <D>Guido Cavalcanti</D>
+       </domanda>
+       <domanda  testo="Cosa fa Beatrice quando incontra Dante alla fine del purgatorio?" corretta="A">
+          <A>Si comporta duramente nei suoi confronti</A>
+          <B>Si concedono al lusso del coito.</B>
+          <C>Pranzano insieme ad Adamo ed Eva</C>
+          <D>Conforta Dante per l'abbandono di Virgilio</D>
+       </domanda>
 </domande>
