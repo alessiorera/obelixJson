@@ -252,5 +252,23 @@
           <C>In una selva oscura</C>
           <D>In una spiaggia</D>
    </domanda>
-   
+   <domanda testo="A quanti anni è morto Dante?" corretta="C">
+
+        <A>33</A>
+        <B>46</B>
+        <C>56</C>
+        <D>66</D>
+    </domanda>
+     <domanda testo="In che anno è morto Dante?" corretta="D">
+        <A>1663</A>
+        <B>1502</B>
+        <C>1315</C>
+        <D>1321</D>
+    </domanda>
+    <domanda testo="Dove è morto Dante?" corretta="A">
+        <A>Ravenna</A>
+        <B>Prato</B>
+        <C>Nel Paradiso</C>
+        <D>Firenze</D>
+    </domanda>
 </domande>
