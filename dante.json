@@ -334,5 +334,29 @@
         "C":"In una selva oscura",
         "D": "In una spiaggia",
         "corretta": "C"
+    },
+    {
+        "testo": "A quanti anni è morto Dante??",
+        "A": "33",
+        "B": "46",
+        "C": "56",
+        "D": "66",
+        "corretta": "C"
+    },
+    {
+        "testo": "In che anno è morto Dante?",
+        "A": "1663",
+        "B": "1502",
+        "C": "1315",
+        "D": "1321",
+        "corretta": "D"
+    },
+    {
+        "testo": "Dove è morto Dante?",
+        "A": "Ravenna",
+        "B": "Prato",
+        "C": "Nel Paradiso",
+        "D": "Firenze",
+        "corretta": "A"
     }
 ]
