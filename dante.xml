@@ -203,35 +203,54 @@
           <B>La Lonza, la Lupa e il Leone</B>
           <C>Il Cervo, l''Unicorno, il Pegasus</C>
           <D>Nessuna Fiera viene incontrata</D>
-       </domanda>
-       <domanda testo="Come si chiama quello che possiamo considerare il suo migliore amico?" corretta="D">
+   </domanda>
+   <domanda testo="Come si chiama quello che possiamo considerare il suo migliore amico?" corretta="D">
           <A>Giovanni Boccaccio</A>
           <B>Aristotele</B>
           <C>Zerocalcare</C>
           <D>Guido Cavalcanti</D>
-       </domanda>
-       <domanda  testo="Cosa fa Beatrice quando incontra Dante alla fine del purgatorio?" corretta="A">
+   </domanda>
+   <domanda  testo="Cosa fa Beatrice quando incontra Dante alla fine del purgatorio?" corretta="A">
           <A>Si comporta duramente nei suoi confronti</A>
           <B>Si concedono al lusso del coito.</B>
           <C>Pranzano insieme ad Adamo ed Eva</C>
           <D>Conforta Dante per l'abbandono di Virgilio</D>
-       </domanda>
-      <domanda testo="Qual è la metrica utilizzata?" corretta="C">
+   </domanda>
+   <domanda testo="Qual è la metrica utilizzata?" corretta="C">
          <A>Novenario</A>
          <B>Decasillabo</B>
          <C>Endecasillabi</C>
          <D>Dodecasillabo</D>
-      </domanda>
-      <domanda testo="Quali numeri si ripresentano spesso nella divina commedia?" corretta="A">
+   </domanda>
+   <domanda testo="Quali numeri si ripresentano spesso nella divina commedia?" corretta="A">
          <A>3, 7, 9</A>
          <B>2, 4, 8</B>
          <C>8, 12, 15</C>
-         <D>3, 12, 13</D>
-      </domanda>
-      <domanda testo="Cosa rappresenta Dante nella Divina Commedia?" corretta="C">
+         <D>3, 12, 13</D
+   </domanda>
+   <domanda testo="Cosa rappresenta Dante nella Divina Commedia?" corretta="C">
          <A>Una guida spirituale</A>
          <B>Un uomo di fede</B>
          <C>L'uomo peccatore</C>
          <D>Le virtù dell'uomo</D>
-      </domanda>
+   </domanda>
+   <domanda testo="Chi è Virgilio e qual è il suo significato allegorico?" corretta="D">
+          <A>Virgilio è un imperatore e come figura allegorica rappresenta il potere</A>
+          <B>Virgilio è un amico d'infanzia di Dante e come figura allegorica rappresenta il legame</B>
+          <C>Virgilio è un poeta e come figura allegorica rappresenta la conoscenza</C>
+          <D>Virgilio è un poeta e come figura allegorica rappresenta la ragione umana</D>
+   </domanda>
+   <domanda testo="Quando ha inizio il viaggio di Dante?" corretta="B">
+          <A>All'inizio della sua vita</A>
+          <B>A metà della sua vita</B>
+          <C>Alla fine della sua vita</C>
+          <D>Non è specificato</D>
+   </domanda>
+   <domanda  testo="Dove si trova Dante all'inizio del primo canto dell'Inferno?" corretta="C">
+          <A>In un bosco</A>
+          <B>In un prato</B>
+          <C>In una selva oscura</C>
+          <D>In una spiaggia</D>
+   </domanda>
+   
 </domande>
