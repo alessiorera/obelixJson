@@ -126,4 +126,40 @@
         <C>Nell'antica Roma era una esponente politico a favore della Monarchia</C>
         <D>Nell'antica Roma era una esponente politico, fedele ai sui ideali di libertà e a favore della Repubblica</D>
     </domanda>
+    <domanda testo="Come si chaiamava il padre di Dante?" corretta="C">
+        <A>Alighiero di Bellone</A>
+        <B>Alberto Danterino</B>
+        <C>Alighiero di Bellincione</C>
+        <D>Nessuna delle precedenti</D>
+    </domanda>
+    <domanda testo="Come si chaiamava La madre di Dante?" corretta="B">
+        <A>Bella degli Abazzi</A>
+        <B>Bella degli Abati</B>
+        <C>Gemma Donati</C>
+        <D>Nessuna delle precedenti</D>
+    </domanda>
+    <domanda testo="Che studi ha compiuto Dante" corretta="A">
+        <A>Le arti del Trivium e del Quadrivium</A>
+        <B>Le arti del Trivium</B>
+        <C>Le arti del Quadrivium</C>
+        <D>Nessuna delle precedenti</D>
+    </domanda>
+   <domanda testo="Dove ha vissuto gli ultimi anni di vita Dante?" corretta="A">
+      <A>Ravenna</A>
+      <B>Firenze</B>
+      <C>Venezia</C>
+      <D>Milano</D>
+   </domanda>
+   <domanda testo="Quanti figli ha avuto?" corretta="C">
+      <A>2</A>
+      <B>7</B>
+      <C>4</C>
+      <D>Non ha avuto figli</D>
+   </domanda>
+   <domanda testo="Quante volte ha incontrato Beatrice?" corretta="D">
+      <A>Mai</A>
+      <B>5</B>
+      <C>Piú di 5</C>
+      <D>2</D>
+   </domanda>
 </domande>
