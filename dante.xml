@@ -108,4 +108,22 @@
         <C>100</C>
         <D>50</D>
     </domanda>
+    <domanda testo="Quali sono i dannati che Dante disprezza di più?" corretta="C">
+        <A>Eretici</A>
+        <B>Avari o Prodighi</B>
+        <C>Ignavi</C>
+        <D>Violenti contro il prossimo</D>
+    </domanda>
+    <domanda testo="Che cos'è la legge del contrappasso?" corretta="A">
+        <A>Una pena,che attraverso il contrario o per analogia della colpa,punisce i dannati</A>
+        <B>Una legge che permette di collocare i dannati in un certo girone dell'inferno</B>
+        <C>Una legge che permette di andare in Purgatorio</C>
+        <D>Una legge che per privilegio porta le anime direttamente al Paradiso</D>
+    </domanda>
+    <domanda testo="Chi era Catone?" corretta="D">
+        <A>Fu la guida di Dante fino al Purgatorio</A>
+        <B>Era il 'Giudice' che decideva la pena della anime dannate all'inferno</B>
+        <C>Nell'antica Roma era una esponente politico a favore della Monarchia</C>
+        <D>Nell'antica Roma era una esponente politico, fedele ai sui ideali di libertà e a favore della Repubblica</D>
+    </domanda>
 </domande>
