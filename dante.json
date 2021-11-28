@@ -478,5 +478,29 @@
       "C":"Esso è formato a forma di cono che si allarga man mano che si sale",
       "D":"Esso è formato secondo una struttura geocentirca al centro della quale si trova la Terra ",
       "corretta":"A"
+   },
+   {
+      "testo":"Quali sono i peccati di incontinenza?",
+      "A":"Lussuria, gola, avarizia, iracondia",
+      "B":"Avarizia, ira",
+      "C":"Lussuria, gola",
+      "D":"Gola, avarizia",
+      "corretta":"A"
+   },
+   {
+      "testo":"Prima dei nove cerchi dell'Inferno, si ha l'Antinferno, in cui ci sono?",
+      "A":"Gli ignavi",
+      "B":"Gli eretici",
+      "C":"I violenti",
+      "D":"I golosi",
+      "corretta":"A"
+   },
+   {
+      "testo":"Quanto tempo serve a Dante per salire la montagna del Purgatorio?",
+      "A":"1 giorno e 1 notte",
+      "B":"7 giorni e 7 notti",
+      "C":"3 giorni e 3 notti",
+      "D":"4 giorni e 4 notti",
+      "corretta":"C"
    }
 ]
