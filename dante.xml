@@ -325,4 +325,40 @@
         <C>Gemma Donati</C>
         <D>Gemma Portinari</D>
     </domanda>
+    <domanda testo="Quando è stata composta la Vita Nova?" corretta="A">
+        <A>fra il 1292 ed il 1293</A>
+        <B>1300<B>
+        <C>1297</C>
+        <D>fra il 1290 e il 1291</D>
+    </domanda>
+    <domanda testo="A quale epoca risale la stesura del trattato Monarchia?" corretta="C">
+        <A>1310-1311</A>
+        <B>1307<B>
+        <C>1312-1313</C>
+        <D>Nessuna delle precedenti</D>
+    </domanda>
+    <domanda testo="A quali anni risale la stesura del Convivio?" corretta="B">
+        <A>1304 e 1305</A>
+        <B>1304 e 1307<B>
+        <C>1300 e 1302</C>
+        <D>1300 e 1307</D>
+    </domanda>
+   <domanda testo="Quanto dura il viaggio nell’inferno?" corretta="C">
+      <A>1 mese</A>
+      <B>2 anni</B>
+      <C>7 giorni</C>
+      <D>21 giorni</D>
+   </domanda>
+   <domanda testo="Chi sono gli ignavi?" corretta="B">
+      <A>Sono dei traditori della patria</A>
+      <B>Sono persone che non riuscivano a prendere delle decisioni</B>
+      <C>Sono le persone scomunicate dalla chiesa</C>
+      <D>Sono le persone che bestemmiano</D>
+   </domanda>
+   <domanda testo="Com’è formato l’anti purgatorio?" corretta="A">
+      <A>Esso è costituito da una spiaggia spiaggia e dalle falde della montagna</A>
+      <B>Esso è un luogo macabro e sporco simile all'inferno</B>
+      <C>Esso è formato a forma di cono che si allarga man mano che si sale</C>
+      <D>Esso è formato secondo una struttura geocentirca al centro della quale si trova la Terra</D>
+   </domanda>
 </domande>
