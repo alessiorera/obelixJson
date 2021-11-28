@@ -361,4 +361,22 @@
       <C>Esso è formato a forma di cono che si allarga man mano che si sale</C>
       <D>Esso è formato secondo una struttura geocentirca al centro della quale si trova la Terra</D>
    </domanda>
+   <domanda testo="Quali sono i peccati di incontinenza?" corretta="A">
+      <A>Lussuria, gola, avarizia, iracondia</A>
+      <B>Avarizia, ira</B>
+      <C>Lussuria, gola</C>
+      <D>Gola, avarizia</D>
+   </domanda>
+   <domanda testo="Prima dei nove cerchi dell'Inferno, si ha l'Antinferno, in cui ci sono?" corretta="A">
+      <A>Gli ignavi</A>
+      <B>Gli eretici</B>
+      <C>I violenti</C>
+      <D>I golosi</D>
+   </domanda>
+   <domanda testo="Quanto tempo serve a Dante per salire la montagna del Purgatorio?" corretta="C">
+      <A>1 giorno e 1 notte</A>
+      <B>7 giorni e 7 notti</B>
+      <C>3 giorni e 3 notti</C>
+      <D>4 giorni e 4 notti</D>
+   </domanda>
 </domande>
