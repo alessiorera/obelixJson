@@ -13,37 +13,37 @@
             "id":"CS001",
             "nome":"Arancina al ragu'",
             "ingredienti":"-",
-            "prezzo":2.5
+            "prezzo":3
         },
         {
             "id":"CS002",
             "nome":"Arancina con prosciutto e mozzarella",
             "ingredienti":"-",
-            "prezzo":2.5
+            "prezzo":3
         },
         {
             "id":"CS003",
             "nome":"Arancina alla norma",
             "ingredienti":"-",
-            "prezzo":2.5
+            "prezzo":3
         },
         {
             "id":"CS004",
             "nome":"Arancina salsiccia e friarelli",
             "ingredienti":"-",
-            "prezzo":2.5
+            "prezzo":3
         },
         {
             "id":"CS005",
             "nome":"Arancina con speck, gorgo e noci",
             "ingredienti":"-",
-            "prezzo":2.5
+            "prezzo":3
         },
         {
             "id":"CS006",
             "nome":"Arancina ai formaggi",
             "ingredienti":"-",
-            "prezzo":2.5
+            "prezzo":3
         },{
             "id": "CS007",
             "nome": "Pizza Margherita",
@@ -58,96 +58,120 @@
         },
         {
             "id": "CS009",
-            "nome": "Pizza con salame piccante",
+            "nome": "Pizza con speck e gorgonzola",
             "ingredienti": "-",
             "prezzo": 2.5
         },
         {
             "id": "CS010",
-            "nome": "Pizza con würstel",
+            "nome": "Pizza con salame piccante",
             "ingredienti": "-",
             "prezzo": 2.5
         },
         {
             "id": "CS011",
-            "nome": "Focaccia semplice",
+            "nome": "Pizza con würstel",
             "ingredienti": "-",
             "prezzo": 2.5
         },
         {
             "id": "CS012",
-            "nome": "Rollò con würstel",
+            "nome": "Focaccia semplice",
             "ingredienti": "-",
             "prezzo": 2.5
         },
         {
             "id": "CS013",
-            "nome": "Calzone al forno con mozzarella",
+            "nome": "Pizza con patate",
             "ingredienti": "-",
             "prezzo": 2.5
         },
         {
             "id": "CS014",
-            "nome": "Calzone al forno con salame piccante e mozzarella",
+            "nome": "Pizza rossa con olive taggiasche",
             "ingredienti": "-",
             "prezzo": 2.5
         },
         {
             "id": "CS015",
-            "nome": "Calzone al forno con salsiccia e friarielli",
+            "nome": "Focaccia farcita cotto e stracchino/cotto e mozzarella",
             "ingredienti": "-",
             "prezzo": 2.5
         },
         {
             "id": "CS016",
-            "nome": "Calzone al forno con prosciutto, pomodoro e mozzarella",
+            "nome": "Rollò con würstel",
             "ingredienti": "-",
             "prezzo": 2.5
         },
         {
             "id": "CS017",
-            "nome": "Calzone al forno con würstel, mozzarella e prosciutto cotto",
+            "nome": "Calzone al forno con mozzarella",
             "ingredienti": "-",
             "prezzo": 2.5
         },
         {
             "id": "CS018",
-            "nome": "Calzone al forno con würstel, mozzarella e salame piccante",
+            "nome": "Calzone al forno con salame piccante e mozzarella",
             "ingredienti": "-",
             "prezzo": 2.5
         },
         {
             "id": "CS019",
-            "nome": "Calzone al forno con porchetta, gorgonzola e pomodorini",
+            "nome": "Calzone al forno con salsiccia e friarielli",
             "ingredienti": "-",
             "prezzo": 2.5
         },
         {
             "id": "CS020",
-            "nome": "Calzone al forno alla norma",
+            "nome": "Calzone al forno con prosciutto, pomodoro e mozzarella",
             "ingredienti": "-",
             "prezzo": 2.5
         },
         {
             "id": "CS021",
-            "nome": "Ravazzata al ragù",
+            "nome": "Calzone al forno con würstel, mozzarella e prosciutto cotto",
             "ingredienti": "-",
             "prezzo": 2.5
         },
         {
             "id": "CS022",
-            "nome": "Calzone fritto con porchetta e mozzarella",
+            "nome": "Calzone al forno con würstel, mozzarella e salame piccante",
             "ingredienti": "-",
             "prezzo": 2.5
         },
         {
             "id": "CS023",
-            "nome": "Calzone fritto con prosciutto cotto e mozzarella",
+            "nome": "Calzone al forno con porchetta, gorgonzola e pomodorini",
             "ingredienti": "-",
             "prezzo": 2.5
         },
         {
             "id": "CS024",
+            "nome": "Calzone al forno alla norma",
+            "ingredienti": "-",
+            "prezzo": 2.5
+        },
+        {
+            "id": "CS025",
+            "nome": "Ravazzata al ragù",
+            "ingredienti": "-",
+            "prezzo": 2.5
+        },
+        {
+            "id": "CS026",
+            "nome": "Calzone fritto con porchetta e mozzarella",
+            "ingredienti": "-",
+            "prezzo": 2.5
+        },
+        {
+            "id": "CS027",
+            "nome": "Calzone fritto con prosciutto cotto e mozzarella",
+            "ingredienti": "-",
+            "prezzo": 2.5
+        },
+        {
+            "id": "CS028",
             "nome": "Calzone fritto con salame piccante e mozzarella",
             "ingredienti": "-",
             "prezzo": 2.5
@@ -158,34 +182,46 @@
                 "id":"CD001",
                 "nome":"Cannolo",
                 "ingredienti":"-",
-                "prezzo":3
-            },
-            {
-                "id":"CD001",
-                "nome":"Cannolo al pistacchio",
-                "ingredienti":"-",
-                "prezzo":4
+                "prezzo":3.5
             },
             {
                 "id":"CD002",
+                "nome":"Krapfen vuoto",
+                "ingredienti":"-",
+                "prezzo":1
+            },
+            {
+                "id":"CD003",
+                "nome":"Ciambella vuota",
+                "ingredienti":"-",
+                "prezzo":1
+            },
+            {
+                "id":"CD004",
+                "nome":"Ciambella farcita",
+                "ingredienti":"-",
+                "prezzo":2
+            },
+            {
+                "id":"CD005",
                 "nome":"Krapfen al pistacchio",
                 "ingredienti":"-",
                 "prezzo":2
             },
             {
-                "id":"CD002",
+                "id":"CD006",
                 "nome":"Krapfen alla nutella",
                 "ingredienti":"-",
                 "prezzo":2
             },
             {
-                "id":"CD002",
+                "id":"CD007",
                 "nome":"Krapfen alla nutella bianca",
                 "ingredienti":"-",
                 "prezzo":2
             },
             {
-                "id":"CD002",
+                "id":"CD008",
                 "nome":"Krapfen alla ricotta",
                 "ingredienti":"-",
                 "prezzo":2
@@ -206,52 +242,52 @@
         {
             "id":"B003",
             "nome":"Coca Cola 33cl",
-            "prezzo":2
+            "prezzo":2.5
         },
         {
             "id":"B004",
             "nome":"Coca Cola Zero 33cl",
-            "prezzo":2
+            "prezzo":2.5
         },
         {
             "id":"B005",
             "nome":"Aranciata 33cl",
-            "prezzo":2
+            "prezzo":2.5
         },
         {
             "id":"B006",
             "nome":"Lemonsoda 33cl",
-            "prezzo":2
+            "prezzo":2.5
         },
         {
             "id":"B007",
             "nome":"Pepsi 33cl",
-            "prezzo":2
+            "prezzo":2.5
         },
         {
             "id":"B007",
             "nome":"Té al limone",
-            "prezzo":2
+            "prezzo":2.5
         },
         {
             "id":"B007",
             "nome":"Té alla pesca",
-            "prezzo":2
+            "prezzo":2.5
         },
         {
             "id":"B008",
             "nome":"Birra Moretti 33cl",
-            "prezzo":2.5
+            "prezzo":3
         },
         {
             "id":"B009",
             "nome":"Birra Peroni 33cl",
-            "prezzo":2.5
+            "prezzo":3
         },
         {
             "id":"B010",
             "nome":"Birra Poretti 33cl",
-            "prezzo":2.5
+            "prezzo":3
         }
     ],
     "menu": [
@@ -259,25 +295,25 @@
             "id":"M001",
             "nome":"Menu' Easy",
             "descrizione":"1 pezzo a scelta + acqua o bibita analcolica da 0,33cl",
-            "prezzo":3.5
+            "prezzo":4
         },
         {
             "id":"M002",
             "nome":"Menu' Classic",
             "descrizione":"2 pezzi a scelta + acqua o bibita analcolica da 0,33cl",
-            "prezzo":6
+            "prezzo":7
         },
         {
             "id":"M003",
             "nome":"Menu' Picciotto",
             "descrizione":"3 pezzi a scelta + acqua o bibita analcolica da 0,33cl",
-            "prezzo":7
+            "prezzo":8
         },
         {
             "id":"M004",
             "nome":"Menu' Birra",
             "descrizione":"2 pezzi a scelta + birra a scelta da 0,33cl",
-            "prezzo":7
+            "prezzo":8
         }
     ]
 },
