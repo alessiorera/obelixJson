@@ -1,0 +1,57 @@
+[
+    {
+        "id":"P001",
+        "nome":"Il Picciotto",
+        "indirizzo":"C.so Piemonte, 11",
+        "citta":"Saluzzo",
+        "telefono":"3469671578",
+        "email":"-",
+        "latitudine":44.64637656159387,
+        "longitudine":7.488614656697821,
+        "sito_web": "https://www.facebook.com/people/Il-Picciotto-Rosticceria-Siciliana/100063470472974/"
+    },
+    {
+        "id":"P002",
+        "nome":"Manhattan",
+        "indirizzo":"Via Palazzo di Città, 25",
+        "citta":"Saluzzo",
+        "telefono":"3299882546",
+        "email":"-",
+        "latitudine":44.64624035424961,
+        "longitudine":7.488915853969665,
+        "sito_web": "https://www.leggimenu.it/menu/manhattansaluzzo"
+    },
+    {
+        "id":"P003",
+        "nome":"Caffè Dublino",
+        "indirizzo":"C.so Italia, 106",
+        "citta":"Saluzzo",
+        "telefono":"0175290201",
+        "email":"-",
+        "latitudine":44.6456,
+        "longitudine":7.490931,
+        "sito_web": "-"
+    },
+    {
+        "id":"P004",
+        "nome":"Fujiyama",
+        "indirizzo":"Via della Resistenza, 16/D",
+        "citta":"Saluzzo",
+        "telefono":"0175218831",
+        "email":"info@fujiyamasaluzzo.it",
+        "latitudine":44.64770063802496,
+        "longitudine":7.494187998162431,
+        "sito_web":"https://www.fujiyamasaluzzo.it/"
+    },
+    {
+        "id":"P005",
+        "nome":"Amici kebab",
+        "indirizzo":"Via Torino, 12",
+        "citta":"Saluzzo",
+        "telefono":"3457744986",
+        "email":"-",
+        "latitudine":"44.6463679",
+        "longitudine":"7.4899082",
+        "sito_web": "-"
+    }
+]
