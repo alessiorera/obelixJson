@@ -1,0 +1,319 @@
+[
+    {
+        "id":"P003",
+        "nome":"Caffè Dublino",
+        "indirizzo":"C.so Italia, 106",
+        "citta":"Saluzzo",
+        "telefono":"0175290201",
+        "email":"-",
+        "latitudine":44.6456,
+        "longitudine":7.490931,
+        "sito_web": "-",
+        "cibi":{
+            "salato":[
+                {
+                    "id":"CS001",
+                    "nome":"Hamburger",
+                    "prezzo":3.5
+                },
+                {
+                    "id":"CS002",
+                    "nome":"Cheeseburger",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS003",
+                    "nome":"Bacon Cheeseburger",
+                    "prezzo":5
+                },
+                {
+                    "id":"CS004",
+                    "nome":"Super Bacon",
+                    "prezzo":5
+                },
+                {
+                    "id":"CS005",
+                    "nome":"American",
+                    "prezzo":5
+                },
+                {
+                    "id":"CS006",
+                    "nome":"Sausage Burger",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS007",
+                    "nome":"Sausage Bacon Burger",
+                    "prezzo":5
+                },
+                {
+                    "id":"CS008",
+                    "nome":"Grilled Chicken Burger",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS009",
+                    "nome":"Chicken Burger",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS010",
+                    "nome":"Chicken Bacon",
+                    "prezzo":5
+                },
+                {
+                    "id":"CS011",
+                    "nome":"Hamburger Vegetariano",
+                    "prezzo":3.5
+                },
+                {
+                    "id":"CS012",
+                    "nome":"Piemontese Maxi da 200g",
+                    "prezzo":7
+                },
+                {
+                    "id":"CS013",
+                    "nome":"Angus irlandese Maxi da 200g",
+                    "prezzo":7
+                },
+                {
+                    "id":"CS014",
+                    "nome":"Fiorentino Maxi da 200g",
+                    "prezzo":7
+                },
+                {
+                    "id":"CS015",
+                    "nome":"Sausage Bacon Burger",
+                    "prezzo":5
+                },
+                {
+                    "id":"CS016",
+                    "nome":"Piadina pomodoro e mozzarella",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS017",
+                    "nome":"Piadina cotto e formaggio",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS018",
+                    "nome":"Piadina cotto, mozzarella e funghi",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS019",
+                    "nome":"Piadina speck e brie",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS020",
+                    "nome":"Piadina speck e gorgonzola",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS021",
+                    "nome":"Piadina salame e formaggio",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS022",
+                    "nome":"Piadina crudo e brie",
+                    "prezzo":4.5
+                },
+                {
+                    "id":"CS023",
+                    "nome":"Piadina crudo e gorgonzola",
+                    "prezzo":4.5
+                },
+                {
+                    "id":"CS024",
+                    "nome":"Piadina stracchino e rucola",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS025",
+                    "nome":"Piadina crudo, stracchino e rucola",
+                    "prezzo":4.5
+                },
+                {
+                    "id":"CS026",
+                    "nome":"Piadina crudo e mozzarella",
+                    "prezzo":4.5
+                },
+                {
+                    "id":"CS027",
+                    "nome":"Piadina 4 formaggi",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS028",
+                    "nome":"Piadina porchetta, maionese e rucola",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS029",
+                    "nome":"Piadina bresaola, parmigiano e rucola",
+                    "prezzo":4.5
+                },
+                {
+                    "id":"CS030",
+                    "nome":"Gnocchi al pomodoro",
+                    "prezzo":6
+                },
+                {
+                    "id":"CS031",
+                    "nome":"Gnocchi ai formaggi",
+                    "prezzo":6
+                },
+                {
+                    "id":"CS032",
+                    "nome":"Ravioli al ragù",
+                    "prezzo":6
+                },
+                {
+                    "id":"CS033",
+                    "nome":"Tagliatelle al ragù",
+                    "prezzo":6
+                },
+                {
+                    "id":"CS034",
+                    "nome":"Insalata Mista",
+                    "prezzo":6
+                },
+                {
+                    "id":"CS035",
+                    "nome":"Insalata mista con prosciutto",
+                    "prezzo":7
+                },
+                {
+                    "id":"CS036",
+                    "nome":"Caesar salad",
+                    "prezzo":7
+                }
+            ],
+            "dolce":[
+                {
+                    "id":"CD001",
+                    "nome":"Crepes alla nutella",
+                    "prezzo":3.5
+                },
+                {
+                    "id":"CD002",
+                    "nome":"Crepes alla marmellata",
+                    "prezzo":3.5
+                },
+                {
+                    "id":"CD003",
+                    "nome":"Cuore caldo al cioccolato",
+                    "prezzo":3.5
+                },
+                {
+                    "id":"CD004",
+                    "nome":"Meringata",
+                    "prezzo":3.5
+                },
+                {
+                    "id":"CD005",
+                    "nome":"Soft tiramisù",
+                    "prezzo":4
+                },
+                {
+                    "id":"CD006",
+                    "nome":"Gelato",
+                    "prezzo":3.5
+                }
+            ]
+        },
+        "bevande":[
+            {
+                "id":"B001",
+                "nome":"Acqua naturale 50cl",
+                "prezzo":1
+            },
+            {
+                "id":"B002",
+                "nome":"Acqua frizzante 50cl",
+                "prezzo":1
+            },
+            {
+                "id":"B003",
+                "nome":"Fanta 33cl",
+                "prezzo":2.5
+            },
+            {
+                "id":"B004",
+                "nome":"Sprite 33cl",
+                "prezzo":2.5
+            },
+            {
+                "id":"B005",
+                "nome":"Coca Cola 33cl",
+                "prezzo":2.8
+            },
+            {
+                "id":"B006",
+                "nome":"RedBull",
+                "prezzo":5
+            },
+            {
+                "id":"B007",
+                "nome":"Caffè",
+                "prezzo":1.5
+            },
+            {
+                "id":"B008",
+                "nome":"Cioccolata calda",
+                "prezzo":3
+            },
+            {
+                "id":"B009",
+                "nome":"Tisana",
+                "prezzo":2.5
+            },
+            {
+                "id":"B010",
+                "nome":"Cappuccino",
+                "prezzo":2
+            }
+        ],
+        "menu":[
+            {
+                "id":"M001",
+                "nome":"Menù 1",
+                "descrizione":"Panino o focaccia + patatine o crocchette + acqua 50cl",
+                "prezzo":6
+            },
+            {
+                "id":"M002",
+                "nome":"Menù 2",
+                "descrizione":"Piadina + patatine o crocchette + acqua 50cl",
+                "prezzo":6
+            },
+            {
+                "id":"M003",
+                "nome":"Menù 3",
+                "descrizione":"Hamburger o cheeseburger + patatine o crocchette + acqua 50cl",
+                "prezzo":6
+            },
+            {
+                "id":"M004",
+                "nome":"Menù 4",
+                "descrizione":"Hotdog + patatine o crocchette + acqua 50cl",
+                "prezzo":6
+            },
+            {
+                "id":"M005",
+                "nome":"Menù 5",
+                "descrizione":"Crostone + patatine o crocchette + acqua 50cl",
+                "prezzo":6
+            },
+            {
+                "id":"M006",
+                "nome":"Menù 6",
+                "descrizione":"Chicken burger + patatine o crocchette + acqua 50cl",
+                "prezzo":6
+            }
+        ]
+    }
+]
