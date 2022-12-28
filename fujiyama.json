@@ -1,0 +1,312 @@
+[
+    {
+        "id":"P004",
+        "nome":"Fujiyama",
+        "indirizzo":"Via della Resistenza, 16/D",
+        "citta":"Saluzzo",
+        "telefono":"0175218831",
+        "email":"info@fujiyamasaluzzo.it",
+        "latitudine":44.64770063802496,
+        "longitudine":7.494187998162431,
+        "sito_web":"https://www.fujiyamasaluzzo.it/",
+        "cibi":{
+            "salato":[
+                {
+                    "id":"CS001",
+                    "nome":"Nigiri salmone - 2pz",
+                    "ingredienti":"-",
+                    "prezzo":3
+                },
+                {
+                    "id":"CS002",
+                    "nome":"Nigiri tonno - 2pz",
+                    "ingredienti":"-",
+                    "prezzo":3
+                },
+                {
+                    "id":"CS003",
+                    "nome":"Nigiri gambero - 2pz",
+                    "ingredienti":"-",
+                    "prezzo":3
+                },
+                {
+                    "id":"CS004",
+                    "nome":"Nigiri polipo - 2pz",
+                    "ingredienti":"-",
+                    "prezzo":3
+                },
+                {
+                    "id":"CS005",
+                    "nome":"Sashimi - 9pz",
+                    "ingredienti":"-",
+                    "prezzo":9.5
+                },
+                {
+                    "id":"CS006",
+                    "nome":"California Temaki ",
+                    "ingredienti":"surimi di granchio, avocado, maionese",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS007",
+                    "nome":"Sake Temaki",
+                    "ingredienti":"salmone, avocado",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS008",
+                    "nome":"Magnum Temaki",
+                    "ingredienti":"tonno, avocado",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS009",
+                    "nome":"Ebi Tem Temaki",
+                    "ingredienti":"gambero fritto, maionese",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS010",
+                    "nome":"Ebi Temaki",
+                    "ingredienti":"gambero cotto, avocado, maionese",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS011",
+                    "nome":"Spicy Tuna Temaki",
+                    "ingredienti":"tonno, avocado, salsa piccante",
+                    "prezzo":4.5
+                },
+                {
+                    "id":"CS012",
+                    "nome":"Spicy Sake Temaki",
+                    "ingredienti":"avocado, salsa piccante",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS013",
+                    "nome":"Sake Maki",
+                    "ingredienti":"salmone",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS014",
+                    "nome":"Tekka Maki",
+                    "ingredienti":"tonno",
+                    "prezzo":4.5
+                },
+                {
+                    "id":"CS015",
+                    "nome":"Ebi Maki",
+                    "ingredienti":"gambero cotto",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS016",
+                    "nome":"Kani Maki",
+                    "ingredienti":"surimi di granchio",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS017",
+                    "nome":"Sushi Misto",
+                    "ingredienti":"7pz nigiri, 4pz hosomaki, 4pz uramaki",
+                    "prezzo":15
+                },
+                {
+                    "id":"CS018",
+                    "nome":"Spring Harumaki",
+                    "ingredienti":"involtini di verdura",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS019",
+                    "nome":"Niku Gyoza",
+                    "ingredienti":"ravioli di carne e verdure",
+                    "prezzo":4
+                },
+                {
+                    "id":"CS020",
+                    "nome":"Pane Cinese 2pz",
+                    "ingredienti":"-",
+                    "prezzo":3.5
+                },
+                {
+                    "id":"CS021",
+                    "nome":"Nuvole di Drago",
+                    "ingredienti":"sfogliatine fritte",
+                    "prezzo":3.5
+                },
+                {
+                    "id":"CS022",
+                    "nome":"Curry Rice",
+                    "ingredienti":"riso al curry con pollo e verdure",
+                    "prezzo":7
+                },
+                {
+                    "id":"CS023",
+                    "nome":"Yaki Soba",
+                    "ingredienti":"spaghetti di grano saraceno con uova e verdure",
+                    "prezzo":6.5
+                },
+                {
+                    "id":"CS024",
+                    "nome":"Ramen",
+                    "ingredienti":"spaghetti, frutti di mare, uova e verdure",
+                    "prezzo":8
+                },
+                {
+                    "id":"CS025",
+                    "nome":"Ebi Kushiyaki",
+                    "ingredienti":"spiedini di gamberi",
+                    "prezzo":7
+                },
+                {
+                    "id":"CS026",
+                    "nome":"Ika Kushiyaki",
+                    "ingredienti":"spiedini di seppia",
+                    "prezzo":7.5
+                },
+                {
+                    "id":"CS027",
+                    "nome":"Yakitori",
+                    "ingredienti":"spiedini di pollo",
+                    "prezzo":6
+                },
+                {
+                    "id":"CS028",
+                    "nome":"Tempura Moriawase",
+                    "ingredienti":"gamberi, calamari e verdure fritte",
+                    "prezzo":11.5
+                },
+                {
+                    "id":"CS029",
+                    "nome":"Patatine fritte",
+                    "ingredienti":"-",
+                    "prezzo":3.5
+                }
+            ],
+            "dolce":[
+                {
+                    "id":"CD001",
+                    "nome":"Gelato Fritto",
+                    "ingredienti":"-",
+                    "prezzo":4
+                },
+                {
+                    "id":"CD002",
+                    "nome":"Sorbetto al Limone",
+                    "ingredienti":"-",
+                    "prezzo":3.50
+                },
+                {
+                    "id":"CD003",
+                    "nome":"Gelato alla Crema",
+                    "ingredienti":"-",
+                    "prezzo":3.50
+                }
+            ]
+        },
+        "bevande":[
+            {
+                "id":"B001",
+                "nome":"Acqua naturale / frizzante 33 cl",
+                "prezzo":1.3
+            },
+            {
+                "id":"B002",
+                "nome":"Acqua naturale / frizzante 75 cl",
+                "prezzo":2.6
+            },
+            {
+                "id":"B003",
+                "nome":"Coca Cola",
+                "prezzo":2.5
+            },
+            {
+                "id":"B004",
+                "nome":"Fanta",
+                "prezzo":2.5
+            },
+            {
+                "id":"B005",
+                "nome":"Sprite",
+                "prezzo":2.5
+            },
+            {
+                "id":"B006",
+                "nome":"Tè alla Pesca",
+                "prezzo":2.5
+            },
+            {
+                "id":"B007",
+                "nome":"Tè al Limone",
+                "prezzo":2.5
+            },
+            {
+                "id":"B008",
+                "nome":"Tè verde caldo",
+                "prezzo":2.5
+            },
+            {
+                "id":"B009",
+                "nome":"Tè verde freddo",
+                "prezzo":3
+            },
+            {
+                "id":"B010",
+                "nome":"Birra Asahi giapponese 50 cl",
+                "prezzo":5
+            },
+            {
+                "id":"B011",
+                "nome":"Birra Kirin giapponese 33 cl",
+                "prezzo":3.8
+            },
+            {
+                "id":"B012",
+                "nome":"Birra Kirin giapponese 50 cl",
+                "prezzo":5
+            },
+            {
+                "id":"B013",
+                "nome":"Birra Sapporo giapponese 50 cl",
+                "prezzo":5
+            },
+            {
+                "id":"B014",
+                "nome":"Birra Tsingtao cinese 64 cl",
+                "prezzo":3.5
+            },
+            {
+                "id":"B015",
+                "nome":"Birra Becks 33 cl",
+                "prezzo":3
+            },
+            {
+                "id":"B016",
+                "nome":"Birra Ceres 33 cl",
+                "prezzo":3.5
+            },
+            {
+                "id":"B017",
+                "nome":"Birra Moretti 66 cl",
+                "prezzo":3.5
+            }
+        ],
+        "menu":[
+            {
+                "id":"M001",
+                "nome":"All you can eat",
+                "descrizione":"-",
+                "prezzo":12.9
+            },
+            {
+                "id":"M002",
+                "nome":"Menu' Bimbi",
+                "descrizione":"-",
+                "prezzo":7.9
+            }
+        ]
+    }
+]
