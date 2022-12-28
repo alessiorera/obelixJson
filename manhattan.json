@@ -1,0 +1,575 @@
+[
+    {
+        "id":"P002",
+        "nome":"Manhattan",
+        "indirizzo":"Via Palazzo di Città, 25",
+        "citta":"Saluzzo",
+        "telefono":"3299882546",
+        "email":"-",
+        "latitudine":44.64624035424961,
+        "longitudine":7.488915853969665,
+        "sito_web": "https://www.leggimenu.it/menu/manhattansaluzzo",
+        "cibi":{
+            "salato":[
+                {
+                    "id":"CS001",
+                    "nome":"Focaccia prosciutto cotto",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS002",
+                    "nome":"Focaccia salame",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS003",
+                    "nome":"Focaccia bistecca di pollo",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS004",
+                    "nome":"Focaccia sottiletta",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS005",
+                    "nome":"Focaccia mozzarella",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS006",
+                    "nome":"Focaccia tonno",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS007",
+                    "nome":"Focaccia prosciutto cotto e salame",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS008",
+                    "nome":"Focaccia prosciutto cotto e bistecca di pollo",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS009",
+                    "nome":"Focaccia prosciutto cotto e sottiletta",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS010",
+                    "nome":"Focaccia prosciutto cotto e mozzarella",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS011",
+                    "nome":"Focaccia prosciutto cotto e tonno",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS012",
+                    "nome":"Focaccia salame e bistecca di pollo",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS013",
+                    "nome":"Focaccia salame e sottiletta",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS014",
+                    "nome":"Focaccia salame e mozzarella",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS015",
+                    "nome":"Focaccia salame e tonno",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS016",
+                    "nome":"Focaccia bistecca di pollo e sottiletta",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS017",
+                    "nome":"Focaccia bistecca di pollo e mozzarella",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS018",
+                    "nome":"Focaccia bistecca di pollo e tonno",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS019",
+                    "nome":"Focaccia sottiletta e mozzarella",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS020",
+                    "nome":"Focaccia sottiletta e tonno",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS021",
+                    "nome":"Focaccia mozzarella e tonno",
+                    "ingredienti":"-",
+                    "prezzo":4.50
+                },
+                {
+                    "id":"CS022",
+                    "nome":"Panino prosciutto cotto",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS023",
+                    "nome":"Panino salame",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS024",
+                    "nome":"Panino bistecca di pollo",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS025",
+                    "nome":"Panino sottiletta",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS026",
+                    "nome":"Panino mozzarella",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS027",
+                    "nome":"Panino tonno",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS028",
+                    "nome":"Panino prosciutto cotto e salame",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS029",
+                    "nome":"Panino prosciutto cotto e bistecca di pollo",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS030",
+                    "nome":"Panino prosciutto cotto e sottiletta",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS031",
+                    "nome":"Panino prosciutto cotto e mozzarella",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS032",
+                    "nome":"Panino prosciutto cotto e tonno",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS033",
+                    "nome":"Panino salame e bistecca di pollo",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS034",
+                    "nome":"Panino salame e sottiletta",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS035",
+                    "nome":"Panino salame e mozzarella",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS036",
+                    "nome":"Panino salame e tonno",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS037",
+                    "nome":"Panino bistecca di pollo e sottiletta",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS038",
+                    "nome":"Panino bistecca di pollo e mozzarella",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS039",
+                    "nome":"Panino bistecca di pollo e tonno",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS040",
+                    "nome":"Panino sottiletta e mozzarella",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS041",
+                    "nome":"Panino sottiletta e tonno",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS042",
+                    "nome":"Panino mozzarella e tonno",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS043",
+                    "nome":"Piadina prosciutto cotto",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS044",
+                    "nome":"Piadina salame",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS045",
+                    "nome":"Piadina bistecca di pollo",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS046",
+                    "nome":"Piadina sottiletta",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS047",
+                    "nome":"Piadina mozzarella",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS048",
+                    "nome":"Piadina tonno",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS049",
+                    "nome":"Piadina prosciutto cotto e salame",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS050",
+                    "nome":"Piadina prosciutto cotto e bistecca di pollo",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS051",
+                    "nome":"Piadina prosciutto cotto e sottiletta",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS052",
+                    "nome":"Piadina prosciutto cotto e mozzarella",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS053",
+                    "nome":"Piadina prosciutto cotto e tonno",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS054",
+                    "nome":"Piadina salame e bistecca di pollo",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS055",
+                    "nome":"Piadina salame e sottiletta",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS056",
+                    "nome":"Piadina salame e mozzarella",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS057",
+                    "nome":"Piadina salame e tonno",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS058",
+                    "nome":"Piadina bistecca di pollo e sottiletta",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS059",
+                    "nome":"Piadina bistecca di pollo e mozzarella",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS060",
+                    "nome":"Piadina bistecca di pollo e tonno",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS061",
+                    "nome":"Piadina sottiletta e mozzarella",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS062",
+                    "nome":"Piadina sottiletta e tonno",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS063",
+                    "nome":"Piadina mozzarella e tonno",
+                    "ingredienti":"-",
+                    "prezzo":4.00
+                },
+                {
+                    "id":"CS064",
+                    "nome":"Lasagne alla Bolognese",
+                    "ingredienti":"-",
+                    "prezzo":5.50
+                },
+                {
+                    "id":"CS065",
+                    "nome":"Pennette al salmone",
+                    "ingredienti":"-",
+                    "prezzo":5.50
+                },
+                {
+                    "id":"CS066",
+                    "nome":"Tagliolini verdi panna e speck",
+                    "ingredienti":"-",
+                    "prezzo":5.50
+                },
+                {
+                    "id":"CS067",
+                    "nome":"Caserecce al pesto",
+                    "ingredienti":"-",
+                    "prezzo":5.50
+                },
+                {
+                    "id":"CS068",
+                    "nome":"Gnocchi ai formaggi",
+                    "ingredienti":"-",
+                    "prezzo":5.50
+                },
+                {
+                    "id":"CS069",
+                    "nome":"Tortellini panna e prosciutto",
+                    "ingredienti":"-",
+                    "prezzo":5.50
+                },
+                {
+                    "id":"CS070",
+                    "nome":"Riso venere gamberi e zucchine",
+                    "ingredienti":"-",
+                    "prezzo":5.50
+                },
+                {
+                    "id":"CS071",
+                    "nome":"Penne all'arrabbiata",
+                    "ingredienti":"-",
+                    "prezzo":5.50
+                },
+                {
+                    "id":"CS072",
+                    "nome":"Arrosto con patate a spicchi",
+                    "ingredienti":"-",
+                    "prezzo":6.50
+                },
+                {
+                    "id":"CS073",
+                    "nome":"Cotoletta di pollo con patate al forno",
+                    "ingredienti":"-",
+                    "prezzo":6.50
+                },
+                {
+                    "id":"CS074",
+                    "nome":"Petto di pollo grigliato con carote e patate",
+                    "ingredienti":"-",
+                    "prezzo":6.50
+                },
+                {
+                    "id":"CS075",
+                    "nome":"Tagliatina di pollo con verdure grigliate",
+                    "ingredienti":"-",
+                    "prezzo":6.50
+                }
+            ],
+            "dolce":[
+                {
+                    "id":"CD001",
+                    "nome":"Soufflè con cuore di cioccoloto caldo",
+                    "ingredienti":"-",
+                    "prezzo":3.00
+                },
+                {
+                    "id":"CD002",
+                    "nome":"Piadina alla Nutella",
+                    "ingredienti":"-",
+                    "prezzo":2.50
+                },
+                {
+                    "id":"CD003",
+                    "nome":"Meringata",
+                    "ingredienti":"-",
+                    "prezzo":2.50
+                }
+            ]
+        },
+        "bevande":[
+            {
+                "id":"B001",
+                "nome":"Acqua tonica",
+                "prezzo":3.00
+            },
+            {
+                "id":"B002",
+                "nome":"Lemonsoda",
+                "prezzo":3.00
+            },
+            {
+                "id":"B003",
+                "nome":"Ginger Ale",
+                "prezzo":3.00
+            },
+            {
+                "id":"B004",
+                "nome":"Fanta",
+                "prezzo":3.00
+            },
+            {
+                "id":"B005",
+                "nome":"Sprite",
+                "prezzo":3.00
+            },
+            {
+                "id":"B006",
+                "nome":"Estathe Pesca",
+                "prezzo":3.00
+            },
+            {
+                "id":"B007",
+                "nome":"Estathe Limone",
+                "prezzo":3.00
+            },
+            {
+                "id":"B008",
+                "nome":"Coca-Cola",
+                "prezzo":3.00
+            },
+            {
+                "id":"B009",
+                "nome":"Coca-Cola Zero",
+                "prezzo":3.00
+            },
+            {
+                "id":"B010",
+                "nome":"RedBull",
+                "prezzo":3.50
+            },
+            {
+                "id":"B011",
+                "nome":"Acqua Naturale",
+                "prezzo":2.00
+            },
+            {
+                "id":"B012",
+                "nome":"Acqua Frizzante",
+                "prezzo":2.00
+            }
+        ],
+        "menu":[
+            {
+                "id":"M001",
+                "nome":"Menu' Toast",
+                "descrizione":"Toast con 2 ingredienti a scelta + acqua naturale/frizzante",
+                "prezzo":4.5
+            },
+            {
+                "id":"M002",
+                "nome":"Menu' Panino",
+                "descrizione":"Panino con 2 ingredienti a scelta + acqua naturale/frizzante",
+                "prezzo":4.5
+            },
+            {
+                "id":"M003",
+                "nome":"Menu' Focaccia",
+                "descrizione":"Focaccia con 2 ingredienti a scelta + acqua naturale/frizzante",
+                "prezzo":4.5
+            },
+            {
+                "id":"M004",
+                "nome":"Menu' Piadina",
+                "descrizione":"Piadina con 2 ingredienti a scelta + acqua naturale/frizzante",
+                "prezzo":4.5
+            }
+        ]
+    }
+]
