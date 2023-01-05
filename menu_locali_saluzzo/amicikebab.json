@@ -5,10 +5,10 @@
         "indirizzo":"Via Torino, 12",
         "citta":"Saluzzo",
         "telefono":"3457744986",
-        "email":"-",
+        "email":"",
         "latitudine":"44.6463679",
         "longitudine":"7.4899082",
-        "sito_web": "-",
+        "sito_web": "",
         "cibi":{
             "salato":[
                 {
@@ -349,25 +349,25 @@
             {
                 "id":"B001",
                 "nome":"bibita lattina 33cl",
-                "descrizione":"-",
+                "descrizione":"",
                 "prezzo":1.5
             },
             {
                 "id":"B002",
                 "nome":"bibita bottiglia 50cl",
-                "descrizione":"-",
+                "descrizione":"",
                 "prezzo":2
             },
             {
                 "id":"B003",
                 "nome":"acqua naturale/frizzante 50cl",
-                "descrizione":"-",
+                "descrizione":"",
                 "prezzo":1
             },
             {
                 "id":"B004",
                 "nome":"Red Bull",
-                "descrizione":"-",
+                "descrizione":"",
                 "prezzo":2.5
             }
         ],
