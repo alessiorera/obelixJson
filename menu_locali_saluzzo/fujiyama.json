@@ -14,31 +14,31 @@
                 {
                     "id":"CS001",
                     "nome":"Nigiri salmone - 2pz",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":3
                 },
                 {
                     "id":"CS002",
                     "nome":"Nigiri tonno - 2pz",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":3
                 },
                 {
                     "id":"CS003",
                     "nome":"Nigiri gambero - 2pz",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":3
                 },
                 {
                     "id":"CS004",
                     "nome":"Nigiri polipo - 2pz",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":3
                 },
                 {
                     "id":"CS005",
                     "nome":"Sashimi - 9pz",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":9.5
                 },
                 {
@@ -128,7 +128,7 @@
                 {
                     "id":"CS020",
                     "nome":"Pane Cinese 2pz",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":3.5
                 },
                 {
@@ -182,7 +182,7 @@
                 {
                     "id":"CS029",
                     "nome":"Patatine fritte",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":3.5
                 }
             ],
@@ -190,19 +190,19 @@
                 {
                     "id":"CD001",
                     "nome":"Gelato Fritto",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":4
                 },
                 {
                     "id":"CD002",
                     "nome":"Sorbetto al Limone",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":3.50
                 },
                 {
                     "id":"CD003",
                     "nome":"Gelato alla Crema",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":3.50
                 }
             ]
@@ -298,13 +298,13 @@
             {
                 "id":"M001",
                 "nome":"All you can eat",
-                "descrizione":"-",
+                "descrizione":"",
                 "prezzo":12.9
             },
             {
                 "id":"M002",
                 "nome":"Menu' Bimbi",
-                "descrizione":"-",
+                "descrizione":"",
                 "prezzo":7.9
             }
         ]
