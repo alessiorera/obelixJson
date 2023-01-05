@@ -103,205 +103,205 @@
                 },
                 {
                 "id":"CS016",
-                "nome":"Aurora ",
+                "nome":"Aurora",
                 "prezzo":5.5,
                 "ingredienti":"Pomodoro, Mozzarella, Prosciutto, Fontina"
                 },
                 {
                 "id":"CS017",
-                "nome":"Kebab Completa ",
+                "nome":"Kebab Completa",
                 "prezzo":6,
                 "ingredienti":"Pomodoro, Mozzarella, Kebab, Insakata, Pomodoro, Cipolla, Salse"
                 },
                 {
                 "id":"CS018",
-                "nome":"Primavera ",
+                "nome":"Primavera",
                 "prezzo":5,
                 "ingredienti":"Pomodoro, Mozzarella, Rucola"
                 },
                 {
                 "id":"CS019",
-                "nome":"Capricciosa ",
+                "nome":"Capricciosa",
                 "prezzo":6.5,
                 "ingredienti":"Pomodoro, Mozzarella, Prosciutto, Funghi, Carciofi, Salamino, Olive"
                 },
                 {
                 "id":"CS020",
-                "nome":"Vegetariana ",
+                "nome":"Vegetariana",
                 "prezzo":6,
                 "ingredienti":"Pomodoro, Mozzarella, Zucchine, Peperoni, Melanzane"
                 },
                 {
                 "id":"CS021",
-                "nome":"Funghi ",
+                "nome":"Funghi",
                 "prezzo":5,
                 "ingredienti":"Pomodoro, Mozzarella, Funghi"
                 },
                 {
                 "id":"CS022",
-                "nome":"Greca ",
+                "nome":"Greca",
                 "prezzo":5,
                 "ingredienti":"Pomodoro, Mozzarella, Olive"
                 },
                 {
                 "id":"CS023",
-                "nome":"Carciofi ",
+                "nome":"Carciofi",
                 "prezzo":5,
                 "ingredienti":"Pomodoro, Mozzarella, Carciofi"
                 },
                 {
                 "id":"CS024",
-                "nome":"Patapizza ",
+                "nome":"Patapizza",
                 "prezzo":5,
                 "ingredienti":"Pomodoro, Mozzarella, Patatine Fritte"
                 },
                 {
                 "id":"CS025",
-                "nome":"Tirolese ",
+                "nome":"Tirolese",
                 "prezzo":5.5,
                 "ingredienti":"Pomodoro, Mozzarella, Wrustel, Cipolla"
                 },
                 {
                 "id":"CS026",
-                "nome":"4 Stagioni ",
+                "nome":"4 Stagioni",
                 "prezzo":6,
                 "ingredienti":"Pomodoro, Mozzarella, Funghi, Carciofi, Prosciutto, Olive"
                 },
                 {
                 "id":"CS027",
-                "nome":"4 Formaggi ",
+                "nome":"4 Formaggi",
                 "prezzo":6,
                 "ingredienti":"Pomodoro, Mozzarella, Prosciutto, Fontina"
                 },
                 {
                 "id":"CS028",
-                "nome":"Gorgo e Cipolla ",
+                "nome":"Gorgo e Cipolla",
                 "prezzo":5.5,
                 "ingredienti":"Pomodoro, Mozzarella, Gorgonzola, Cipolla"
                 },
                 {
                 "id":"CS029",
-                "nome":"Tedesca ",
+                "nome":"Tedesca",
                 "prezzo":5.5,
                 "ingredienti":"Pomodoro, Mozzarella, Wrustel, Olive"
                 },
                 {
                 "id":"CS030",
-                "nome":"Tonno e Pomodoro ",
+                "nome":"Tonno e Pomodoro",
                 "prezzo":5.5,
                 "ingredienti":"Pomodoro, Mozzarella, Tonno, Pomodoro"
                 },
                 {
                 "id":"CS031",
-                "nome":"Bufala ",
+                "nome":"Bufala",
                 "prezzo":6,
                 "ingredienti":"Pomodoro, Mozzarella di Bufala, Origano"
                 },
                 {
                 "id":"CS032",
-                "nome":"Gamberetti ",
+                "nome":"Gamberetti",
                 "prezzo":7,
                 "ingredienti":"Pomodorini, Mozzarella, Gamberetti, Zucchine"
                 },
                 {
                 "id":"CS033",
-                "nome":"Speck e Brie ",
+                "nome":"Speck e Brie",
                 "prezzo":6,
                 "ingredienti":"Pomodoro, Mozzarella, Speck, Brie"
                 },
                 {
                 "id":"CS034",
-                "nome":"Falafel ",
+                "nome":"Falafel",
                 "prezzo":5,
                 "ingredienti":"Pomodoro, Mozzarella, Falafel "
                 },
                 {
                 "id":"CS035",
-                "nome":"Salsiccia e Friarielli ",
+                "nome":"Salsiccia e Friarielli",
                 "prezzo":6,
                 "ingredienti":"Pomodoro, Mozzarella, Salsiccia, Friarielli"
                 },
                 {
                 "id":"CS036",
-                "nome":"Kebab e Gorgo ",
+                "nome":"Kebab e Gorgo",
                 "prezzo":7,
                 "ingredienti":"Pomodoro, Mozzarella, Kebab, Gorgonzola, Insalata, Pomodori, Cipolle, Patatine Fritte, Salse"
                 },
                 {
                 "id":"CS037",
-                "nome":"Scamorza ",
+                "nome":"Scamorza",
                 "prezzo":5.5,
                 "ingredienti":"Pomodoro, Mozzarella, Scamorza Affumicata, Fontina"
                 },
                 {
                 "id":"CS038",
-                "nome":"4 Salumi ",
+                "nome":"4 Salumi",
                 "prezzo":6.5,
                 "ingredienti":"Pomodoro, Mozzarella, Prosciutto, Salamino, Wurstel, Salsiccia"
                 },
                 {
                 "id":"CS039",
-                "nome":"Stracchino e Rucola ",
+                "nome":"Stracchino e Rucola",
                 "prezzo":5,
                 "ingredienti":"Pomodoro, Mozzarella, Stracchino, Rucola"
                 },
                 {
                 "id":"CS040",
-                "nome":"Crudo ",
+                "nome":"Crudo",
                 "prezzo":5.5,
                 "ingredienti":"Pomodoro, Mozzarella, Prosciutto Crudo, Basilico"
                 },
                 {
                 "id":"CS041",
-                "nome":"Pop Corn ",
+                "nome":"Pop Corn",
                 "prezzo":6,
                 "ingredienti":"Pomodoro, Mozzarella, Pop Corn di Pollo"
                 },
                 {
                 "id":"CS042",
-                "nome":"Spinaci e Gamberetti ",
+                "nome":"Spinaci e Gamberetti",
                 "prezzo":7,
                 "ingredienti":"Pomodoro, Mozzarella, Spinaci, Gamberetti"
                 },
                 {
                 "id":"CS043",
-                "nome":"Salmone ",
+                "nome":"Salmone",
                 "prezzo":6,
                 "ingredienti":"Pomodorini, Salmone Affumicato, Mozzarella, Rucola "
                 },
                 {
                 "id":"CS044",
-                "nome":"Gorgo e Noci ",
+                "nome":"Gorgo e Noci",
                 "prezzo":6,
                 "ingredienti":" Mozzarella, Gorgonzola, Naci"
                 },
                 {
                 "id":"CS045",
-                "nome":"Kebab Panino ",
+                "nome":"Kebab Panino",
                 "prezzo":3.5,
                 "ingredienti":"Pane, Kebab, Insalata, Pomodori, Cipolle, Cetriolini, Patatine Fritte, Salse"
                 },
                 {
                 "id":"CS046",
-                "nome":"Kebab Arrotolato ",
+                "nome":"Kebab Arrotolato",
                 "prezzo":3.5,
                 "ingredienti":"Pane Arabo, Kebab, Insalata, Pomodori, Cipolle, Cetriolini, Patatine Fritte, Salse"
                 },
                 {
                 "id":"CS047",
-                "nome":"Hot Dog ",
+                "nome":"Hot Dog",
                 "prezzo":2.5,
-                "ingredienti":"Pane , Wrustel, Salse"
+                "ingredienti":"Pane, Wrustel, Salse"
                 },
                 {
                 "id":"CS046",
-                "nome":"Hambugher ",
+                "nome":"Hambugher",
                 "prezzo":3.5,
-                "ingredienti":"Pane , Carne, Salse, Pomodori, Insalata , Salse"
+                "ingredienti":"Pane, Carne, Salse, Pomodori, Insalata , Salse"
                 },
                 {
                 "id":"CS046",
-                "nome":"Cheeseburger  ",
+                "nome":"Cheeseburger",
                 "prezzo":3.5,
                 "ingredienti":"Pane , Carne,Formaggio , Salse, Pomodori, Insalata , Salse"
                 }
