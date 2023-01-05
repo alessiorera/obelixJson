@@ -5,7 +5,7 @@
         "indirizzo":"C.so Piemonte, 11",
         "citta":"Saluzzo",
         "telefono":"3469671578",
-        "email":"-",
+        "email":"",
         "latitudine":44.64637656159387,
         "longitudine":7.488614656697821,
         "sito_web": "https://www.facebook.com/people/Il-Picciotto-Rosticceria-Siciliana/100063470472974/",
@@ -14,163 +14,163 @@
                 {
                     "id":"CS001",
                     "nome":"Arancina al ragu'",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":3
                 },
                 {
                     "id":"CS002",
                     "nome":"Arancina con prosciutto e mozzarella",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":3
                 },
                 {
                     "id":"CS003",
                     "nome":"Arancina alla norma",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":3
                 },
                 {
                     "id":"CS004",
                     "nome":"Arancina salsiccia e friarelli",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":3
                 },
                 {
                     "id":"CS005",
                     "nome":"Arancina ai formaggi",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":3
                 },
                 {
                     "id":"CS006",
                     "nome":"Pizza Margherita",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS007",
                     "nome":"Pizza con prosciutto",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS008",
                     "nome":"Pizza con speck e gorgonzola",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS009",
                     "nome":"Pizza con salame piccante",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS010",
                     "nome":"Pizza con würstel",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS011",
                     "nome":"Focaccia semplice",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS012",
                     "nome":"Pizza con patate",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS013",
                     "nome":"Pizza rossa con olive taggiasche",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS014",
                     "nome":"Focaccia farcita cotto e stracchino/cotto e mozzarella",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS015",
                     "nome":"Rollò con würstel",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS016",
                     "nome":"Calzone al forno con mozzarella",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS017",
                     "nome":"Calzone al forno con salame piccante e mozzarella",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS018",
                     "nome":"Calzone al forno con salsiccia e friarielli",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS019",
                     "nome":"Calzone al forno con prosciutto, pomodoro e mozzarella",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS020",
                     "nome":"Calzone al forno con würstel, mozzarella e prosciutto cotto",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS021",
                     "nome":"Calzone al forno con würstel, mozzarella e salame piccante",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS022",
                     "nome":"Calzone al forno con porchetta, gorgonzola e pomodorini",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS023",
                     "nome":"Calzone al forno alla norma",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS024",
                     "nome":"Ravazzata al ragù",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS025",
                     "nome":"Calzone fritto con porchetta e mozzarella",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS026",
                     "nome":"Calzone fritto con prosciutto cotto e mozzarella",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 },
                 {
                     "id":"CS027",
                     "nome":"Calzone fritto con salame piccante e mozzarella",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2.5
                 }
             ],
@@ -178,49 +178,49 @@
                 {
                     "id":"CD001",
                     "nome":"Cannolo",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":3.5
                 },
                 {
                     "id":"CD002",
                     "nome":"Krapfen vuoto",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":1
                 },
                 {
                     "id":"CD003",
                     "nome":"Ciambella vuota",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":1
                 },
                 {
                     "id":"CD004",
                     "nome":"Ciambella farcita",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2
                 },
                 {
                     "id":"CD005",
                     "nome":"Krapfen al pistacchio",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2
                 },
                 {
                     "id":"CD006",
                     "nome":"Krapfen alla nutella",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2
                 },
                 {
                     "id":"CD007",
                     "nome":"Krapfen alla nutella bianca",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2
                 },
                 {
                     "id":"CD008",
                     "nome":"Krapfen alla ricotta",
-                    "ingredienti":"-",
+                    "ingredienti":"",
                     "prezzo":2
                 }
             ]
