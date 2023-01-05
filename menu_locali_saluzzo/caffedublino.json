@@ -5,10 +5,10 @@
         "indirizzo":"C.so Italia, 106",
         "citta":"Saluzzo",
         "telefono":"0175290201",
-        "email":"-",
+        "email":"",
         "latitudine":44.6456,
         "longitudine":7.490931,
-        "sito_web": "-",
+        "sito_web": "",
         "cibi":{
             "salato":[
                 {
