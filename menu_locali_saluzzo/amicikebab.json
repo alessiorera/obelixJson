@@ -1,445 +1,443 @@
-[
-    {
-        "id":"P005",
-        "nome":"Amici kebab",
-        "indirizzo":"Via Torino, 12",
-        "citta":"Saluzzo",
-        "telefono":"3457744986",
-        "email":"",
-        "latitudine":"44.6463679",
-        "longitudine":"7.4899082",
-        "sito_web":"",
-        "cibi":{
-            "salato":[
-                {
-                "id":"CS001",
-                "nome":"Pizza Margherita",
-                "prezzo":4,
-                "ingredienti":"Pomodoro, Mozzarella, Origano"
-                },
-                {
-                "id":"CS002",
-                "nome":"Biancaneve",
-                "prezzo":4,
-                "ingredienti":" Mozzarella, Origano"
-                },
-                {
-                "id":"CS003",
-                "nome":"Marinara",
-                "prezzo":3.5,
-                "ingredienti":"Pomodoro,Origano,aglio,olio d'oliva "
-                },
-                {
-                "id":"CS004",
-                "nome":"Napoli",
-                "prezzo":5,
-                "ingredienti":"Pomodoro, Mozzarella, Origano, Acciughe"
-                },
-                {
-                "id":"CS005",
-                "nome":"Prosciutto",
-                "prezzo":5,
-                "ingredienti":"Pomodoro, Mozzarella, Prosciutto"
-                },
-                {
-                "id":"CS006",
-                "nome":"Diavola",
-                "prezzo":5,
-                "ingredienti":"Pomodoro, Mozzarella, Salamino Piccante"
-                },
-                {
-                "id":"CS007",
-                "nome":"Wurstel;",
-                "prezzo":5,
-                "ingredienti":"Pomodoro, Mozzarella, Wurstel"
-                },
-                {
-                "id":"CS008",
-                "nome":"Bismark",
-                "prezzo":5.5,
-                "ingredienti":"Pomodoro, Mozzarella, Prosciutto, Uovo"
-                },
-                {
-                "id":"CS009",
-                "nome":" Tonno",
-                "prezzo":5,
-                "ingredienti":"Pomodoro, Mozzarella, Tonno"
-                },
-                {
-                "id":"CS010",
-                "nome":"Siciliana ",
-                "prezzo":5.5,
-                "ingredienti":"Pomodoro, Mozzarella, Acciughe, Olive, Capperi"
-                },
-                {
-                "id":"CS011",
-                "nome":"Salsiccia ",
-                "prezzo":5,
-                "ingredienti":"Pomodoro, Mozzarella, Salsiccia"
-                },
-                {
-                "id":"CS012",
-                "nome":" Pizza Della Casa",
-                "prezzo":6,
-                "ingredienti":"Pomodoro, Mozzarella, Salsiccia, Patatine Fritte, Wrustel"
-                },
-                {
-                "id":"CS013",
-                "nome":"Peperoni e Acciughe",
-                "prezzo":5.5,
-                "ingredienti":"Pomodoro, Mozzarella, Peperoni, Acciughe"
-                },
-                {
-                "id":"CS014",
-                "nome":"Peperlizia ",
-                "prezzo":5,
-                "ingredienti":"Pomodoro, Mozzarella, Peperoni, Melanzane"
-                },
-                {
-                "id":"CS015",
-                "nome":" Biricchina",
-                "prezzo":5.5,
-                "ingredienti":"Pomodoro, Mozzarella, Wrustel ,Patatine Fritte"
-                },
-                {
-                "id":"CS016",
-                "nome":"Aurora",
-                "prezzo":5.5,
-                "ingredienti":"Pomodoro, Mozzarella, Prosciutto, Fontina"
-                },
-                {
-                "id":"CS017",
-                "nome":"Kebab Completa",
-                "prezzo":6,
-                "ingredienti":"Pomodoro, Mozzarella, Kebab, Insakata, Pomodoro, Cipolla, Salse"
-                },
-                {
-                "id":"CS018",
-                "nome":"Primavera",
-                "prezzo":5,
-                "ingredienti":"Pomodoro, Mozzarella, Rucola"
-                },
-                {
-                "id":"CS019",
-                "nome":"Capricciosa",
-                "prezzo":6.5,
-                "ingredienti":"Pomodoro, Mozzarella, Prosciutto, Funghi, Carciofi, Salamino, Olive"
-                },
-                {
-                "id":"CS020",
-                "nome":"Vegetariana",
-                "prezzo":6,
-                "ingredienti":"Pomodoro, Mozzarella, Zucchine, Peperoni, Melanzane"
-                },
-                {
-                "id":"CS021",
-                "nome":"Funghi",
-                "prezzo":5,
-                "ingredienti":"Pomodoro, Mozzarella, Funghi"
-                },
-                {
-                "id":"CS022",
-                "nome":"Greca",
-                "prezzo":5,
-                "ingredienti":"Pomodoro, Mozzarella, Olive"
-                },
-                {
-                "id":"CS023",
-                "nome":"Carciofi",
-                "prezzo":5,
-                "ingredienti":"Pomodoro, Mozzarella, Carciofi"
-                },
-                {
-                "id":"CS024",
-                "nome":"Patapizza",
-                "prezzo":5,
-                "ingredienti":"Pomodoro, Mozzarella, Patatine Fritte"
-                },
-                {
-                "id":"CS025",
-                "nome":"Tirolese",
-                "prezzo":5.5,
-                "ingredienti":"Pomodoro, Mozzarella, Wrustel, Cipolla"
-                },
-                {
-                "id":"CS026",
-                "nome":"4 Stagioni",
-                "prezzo":6,
-                "ingredienti":"Pomodoro, Mozzarella, Funghi, Carciofi, Prosciutto, Olive"
-                },
-                {
-                "id":"CS027",
-                "nome":"4 Formaggi",
-                "prezzo":6,
-                "ingredienti":"Pomodoro, Mozzarella, Prosciutto, Fontina"
-                },
-                {
-                "id":"CS028",
-                "nome":"Gorgo e Cipolla",
-                "prezzo":5.5,
-                "ingredienti":"Pomodoro, Mozzarella, Gorgonzola, Cipolla"
-                },
-                {
-                "id":"CS029",
-                "nome":"Tedesca",
-                "prezzo":5.5,
-                "ingredienti":"Pomodoro, Mozzarella, Wrustel, Olive"
-                },
-                {
-                "id":"CS030",
-                "nome":"Tonno e Pomodoro",
-                "prezzo":5.5,
-                "ingredienti":"Pomodoro, Mozzarella, Tonno, Pomodoro"
-                },
-                {
-                "id":"CS031",
-                "nome":"Bufala",
-                "prezzo":6,
-                "ingredienti":"Pomodoro, Mozzarella di Bufala, Origano"
-                },
-                {
-                "id":"CS032",
-                "nome":"Gamberetti",
-                "prezzo":7,
-                "ingredienti":"Pomodorini, Mozzarella, Gamberetti, Zucchine"
-                },
-                {
-                "id":"CS033",
-                "nome":"Speck e Brie",
-                "prezzo":6,
-                "ingredienti":"Pomodoro, Mozzarella, Speck, Brie"
-                },
-                {
-                "id":"CS034",
-                "nome":"Falafel",
-                "prezzo":5,
-                "ingredienti":"Pomodoro, Mozzarella, Falafel "
-                },
-                {
-                "id":"CS035",
-                "nome":"Salsiccia e Friarielli",
-                "prezzo":6,
-                "ingredienti":"Pomodoro, Mozzarella, Salsiccia, Friarielli"
-                },
-                {
-                "id":"CS036",
-                "nome":"Kebab e Gorgo",
-                "prezzo":7,
-                "ingredienti":"Pomodoro, Mozzarella, Kebab, Gorgonzola, Insalata, Pomodori, Cipolle, Patatine Fritte, Salse"
-                },
-                {
-                "id":"CS037",
-                "nome":"Scamorza",
-                "prezzo":5.5,
-                "ingredienti":"Pomodoro, Mozzarella, Scamorza Affumicata, Fontina"
-                },
-                {
-                "id":"CS038",
-                "nome":"4 Salumi",
-                "prezzo":6.5,
-                "ingredienti":"Pomodoro, Mozzarella, Prosciutto, Salamino, Wurstel, Salsiccia"
-                },
-                {
-                "id":"CS039",
-                "nome":"Stracchino e Rucola",
-                "prezzo":5,
-                "ingredienti":"Pomodoro, Mozzarella, Stracchino, Rucola"
-                },
-                {
-                "id":"CS040",
-                "nome":"Crudo",
-                "prezzo":5.5,
-                "ingredienti":"Pomodoro, Mozzarella, Prosciutto Crudo, Basilico"
-                },
-                {
-                "id":"CS041",
-                "nome":"Pop Corn",
-                "prezzo":6,
-                "ingredienti":"Pomodoro, Mozzarella, Pop Corn di Pollo"
-                },
-                {
-                "id":"CS042",
-                "nome":"Spinaci e Gamberetti",
-                "prezzo":7,
-                "ingredienti":"Pomodoro, Mozzarella, Spinaci, Gamberetti"
-                },
-                {
-                "id":"CS043",
-                "nome":"Salmone",
-                "prezzo":6,
-                "ingredienti":"Pomodorini, Salmone Affumicato, Mozzarella, Rucola "
-                },
-                {
-                "id":"CS044",
-                "nome":"Gorgo e Noci",
-                "prezzo":6,
-                "ingredienti":" Mozzarella, Gorgonzola, Naci"
-                },
-                {
-                "id":"CS045",
-                "nome":"Kebab Panino",
-                "prezzo":3.5,
-                "ingredienti":"Pane, Kebab, Insalata, Pomodori, Cipolle, Cetriolini, Patatine Fritte, Salse"
-                },
-                {
-                "id":"CS046",
-                "nome":"Kebab Arrotolato",
-                "prezzo":3.5,
-                "ingredienti":"Pane Arabo, Kebab, Insalata, Pomodori, Cipolle, Cetriolini, Patatine Fritte, Salse"
-                },
-                {
-                "id":"CS047",
-                "nome":"Hot Dog",
-                "prezzo":2.5,
-                "ingredienti":"Pane, Wrustel, Salse"
-                },
-                {
-                "id":"CS046",
-                "nome":"Hambugher",
-                "prezzo":3.5,
-                "ingredienti":"Pane, Carne, Salse, Pomodori, Insalata , Salse"
-                },
-                {
-                "id":"CS046",
-                "nome":"Cheeseburger",
-                "prezzo":3.5,
-                "ingredienti":"Pane , Carne,Formaggio , Salse, Pomodori, Insalata , Salse"
-                }
-            ],
-            "dolce":[
-                {
-                "id":"CD001",
-                "nome":"Baklava",
-                "descrizione":"4 pezzi",
-                "prezzo":2
-                },
-                {
-                "id":"CD002",
-                "nome":"Souffle",
-                "descrizione":"1 pezzo",
-                "prezzo":2.5
-                },
-                {
-                "id":"CD003",
-                "nome":"Muffin",
-                "descrizione":"1 pezzo",
-                "prezzo":2
-                },
-                {
-                "id":"CD004",
-                "nome":"Donut",
-                "descrizione":"1 pezzo",
-                "prezzo":2
-                },
-                {
-                "id":"CD005",
-                "nome":"Piadina Nutella",
-                "descrizione":"1 pezzo",
-                "prezzo":2.5
-                },
-                {
-                "id":"CD001",
-                "nome":"Focaccia Nutella",
-                "descrizione":"1 pezzo",
-                "prezzo":5.5
-                }
-            ]
-        },
-        "bevande":[
+{
+    "id":"P005",
+    "nome":"Amici kebab",
+    "indirizzo":"Via Torino, 12",
+    "citta":"Saluzzo",
+    "telefono":"3457744986",
+    "email":"",
+    "latitudine":"44.6463679",
+    "longitudine":"7.4899082",
+    "sito_web":"",
+    "cibi":{
+        "salato":[
             {
-                "id":"B001",
-                "nome":"bibita lattina 33cl",
-                "prezzo":1.5
+            "id":"CS001",
+            "nome":"Pizza Margherita",
+            "prezzo":4,
+            "ingredienti":"Pomodoro, Mozzarella, Origano"
             },
             {
-                "id":"B002",
-                "nome":"bibita bottiglia 50cl",
-                "prezzo":2
+            "id":"CS002",
+            "nome":"Biancaneve",
+            "prezzo":4,
+            "ingredienti":" Mozzarella, Origano"
             },
             {
-                "id":"B003",
-                "nome":"acqua naturale/frizzante 50cl",
-                "prezzo":1
+            "id":"CS003",
+            "nome":"Marinara",
+            "prezzo":3.5,
+            "ingredienti":"Pomodoro,Origano,aglio,olio d'oliva "
             },
             {
-                "id":"B004",
-                "nome":"Red Bull",
-                "prezzo":2.5
+            "id":"CS004",
+            "nome":"Napoli",
+            "prezzo":5,
+            "ingredienti":"Pomodoro, Mozzarella, Origano, Acciughe"
+            },
+            {
+            "id":"CS005",
+            "nome":"Prosciutto",
+            "prezzo":5,
+            "ingredienti":"Pomodoro, Mozzarella, Prosciutto"
+            },
+            {
+            "id":"CS006",
+            "nome":"Diavola",
+            "prezzo":5,
+            "ingredienti":"Pomodoro, Mozzarella, Salamino Piccante"
+            },
+            {
+            "id":"CS007",
+            "nome":"Wurstel;",
+            "prezzo":5,
+            "ingredienti":"Pomodoro, Mozzarella, Wurstel"
+            },
+            {
+            "id":"CS008",
+            "nome":"Bismark",
+            "prezzo":5.5,
+            "ingredienti":"Pomodoro, Mozzarella, Prosciutto, Uovo"
+            },
+            {
+            "id":"CS009",
+            "nome":" Tonno",
+            "prezzo":5,
+            "ingredienti":"Pomodoro, Mozzarella, Tonno"
+            },
+            {
+            "id":"CS010",
+            "nome":"Siciliana ",
+            "prezzo":5.5,
+            "ingredienti":"Pomodoro, Mozzarella, Acciughe, Olive, Capperi"
+            },
+            {
+            "id":"CS011",
+            "nome":"Salsiccia ",
+            "prezzo":5,
+            "ingredienti":"Pomodoro, Mozzarella, Salsiccia"
+            },
+            {
+            "id":"CS012",
+            "nome":" Pizza Della Casa",
+            "prezzo":6,
+            "ingredienti":"Pomodoro, Mozzarella, Salsiccia, Patatine Fritte, Wrustel"
+            },
+            {
+            "id":"CS013",
+            "nome":"Peperoni e Acciughe",
+            "prezzo":5.5,
+            "ingredienti":"Pomodoro, Mozzarella, Peperoni, Acciughe"
+            },
+            {
+            "id":"CS014",
+            "nome":"Peperlizia ",
+            "prezzo":5,
+            "ingredienti":"Pomodoro, Mozzarella, Peperoni, Melanzane"
+            },
+            {
+            "id":"CS015",
+            "nome":" Biricchina",
+            "prezzo":5.5,
+            "ingredienti":"Pomodoro, Mozzarella, Wrustel ,Patatine Fritte"
+            },
+            {
+            "id":"CS016",
+            "nome":"Aurora",
+            "prezzo":5.5,
+            "ingredienti":"Pomodoro, Mozzarella, Prosciutto, Fontina"
+            },
+            {
+            "id":"CS017",
+            "nome":"Kebab Completa",
+            "prezzo":6,
+            "ingredienti":"Pomodoro, Mozzarella, Kebab, Insakata, Pomodoro, Cipolla, Salse"
+            },
+            {
+            "id":"CS018",
+            "nome":"Primavera",
+            "prezzo":5,
+            "ingredienti":"Pomodoro, Mozzarella, Rucola"
+            },
+            {
+            "id":"CS019",
+            "nome":"Capricciosa",
+            "prezzo":6.5,
+            "ingredienti":"Pomodoro, Mozzarella, Prosciutto, Funghi, Carciofi, Salamino, Olive"
+            },
+            {
+            "id":"CS020",
+            "nome":"Vegetariana",
+            "prezzo":6,
+            "ingredienti":"Pomodoro, Mozzarella, Zucchine, Peperoni, Melanzane"
+            },
+            {
+            "id":"CS021",
+            "nome":"Funghi",
+            "prezzo":5,
+            "ingredienti":"Pomodoro, Mozzarella, Funghi"
+            },
+            {
+            "id":"CS022",
+            "nome":"Greca",
+            "prezzo":5,
+            "ingredienti":"Pomodoro, Mozzarella, Olive"
+            },
+            {
+            "id":"CS023",
+            "nome":"Carciofi",
+            "prezzo":5,
+            "ingredienti":"Pomodoro, Mozzarella, Carciofi"
+            },
+            {
+            "id":"CS024",
+            "nome":"Patapizza",
+            "prezzo":5,
+            "ingredienti":"Pomodoro, Mozzarella, Patatine Fritte"
+            },
+            {
+            "id":"CS025",
+            "nome":"Tirolese",
+            "prezzo":5.5,
+            "ingredienti":"Pomodoro, Mozzarella, Wrustel, Cipolla"
+            },
+            {
+            "id":"CS026",
+            "nome":"4 Stagioni",
+            "prezzo":6,
+            "ingredienti":"Pomodoro, Mozzarella, Funghi, Carciofi, Prosciutto, Olive"
+            },
+            {
+            "id":"CS027",
+            "nome":"4 Formaggi",
+            "prezzo":6,
+            "ingredienti":"Pomodoro, Mozzarella, Prosciutto, Fontina"
+            },
+            {
+            "id":"CS028",
+            "nome":"Gorgo e Cipolla",
+            "prezzo":5.5,
+            "ingredienti":"Pomodoro, Mozzarella, Gorgonzola, Cipolla"
+            },
+            {
+            "id":"CS029",
+            "nome":"Tedesca",
+            "prezzo":5.5,
+            "ingredienti":"Pomodoro, Mozzarella, Wrustel, Olive"
+            },
+            {
+            "id":"CS030",
+            "nome":"Tonno e Pomodoro",
+            "prezzo":5.5,
+            "ingredienti":"Pomodoro, Mozzarella, Tonno, Pomodoro"
+            },
+            {
+            "id":"CS031",
+            "nome":"Bufala",
+            "prezzo":6,
+            "ingredienti":"Pomodoro, Mozzarella di Bufala, Origano"
+            },
+            {
+            "id":"CS032",
+            "nome":"Gamberetti",
+            "prezzo":7,
+            "ingredienti":"Pomodorini, Mozzarella, Gamberetti, Zucchine"
+            },
+            {
+            "id":"CS033",
+            "nome":"Speck e Brie",
+            "prezzo":6,
+            "ingredienti":"Pomodoro, Mozzarella, Speck, Brie"
+            },
+            {
+            "id":"CS034",
+            "nome":"Falafel",
+            "prezzo":5,
+            "ingredienti":"Pomodoro, Mozzarella, Falafel "
+            },
+            {
+            "id":"CS035",
+            "nome":"Salsiccia e Friarielli",
+            "prezzo":6,
+            "ingredienti":"Pomodoro, Mozzarella, Salsiccia, Friarielli"
+            },
+            {
+            "id":"CS036",
+            "nome":"Kebab e Gorgo",
+            "prezzo":7,
+            "ingredienti":"Pomodoro, Mozzarella, Kebab, Gorgonzola, Insalata, Pomodori, Cipolle, Patatine Fritte, Salse"
+            },
+            {
+            "id":"CS037",
+            "nome":"Scamorza",
+            "prezzo":5.5,
+            "ingredienti":"Pomodoro, Mozzarella, Scamorza Affumicata, Fontina"
+            },
+            {
+            "id":"CS038",
+            "nome":"4 Salumi",
+            "prezzo":6.5,
+            "ingredienti":"Pomodoro, Mozzarella, Prosciutto, Salamino, Wurstel, Salsiccia"
+            },
+            {
+            "id":"CS039",
+            "nome":"Stracchino e Rucola",
+            "prezzo":5,
+            "ingredienti":"Pomodoro, Mozzarella, Stracchino, Rucola"
+            },
+            {
+            "id":"CS040",
+            "nome":"Crudo",
+            "prezzo":5.5,
+            "ingredienti":"Pomodoro, Mozzarella, Prosciutto Crudo, Basilico"
+            },
+            {
+            "id":"CS041",
+            "nome":"Pop Corn",
+            "prezzo":6,
+            "ingredienti":"Pomodoro, Mozzarella, Pop Corn di Pollo"
+            },
+            {
+            "id":"CS042",
+            "nome":"Spinaci e Gamberetti",
+            "prezzo":7,
+            "ingredienti":"Pomodoro, Mozzarella, Spinaci, Gamberetti"
+            },
+            {
+            "id":"CS043",
+            "nome":"Salmone",
+            "prezzo":6,
+            "ingredienti":"Pomodorini, Salmone Affumicato, Mozzarella, Rucola "
+            },
+            {
+            "id":"CS044",
+            "nome":"Gorgo e Noci",
+            "prezzo":6,
+            "ingredienti":" Mozzarella, Gorgonzola, Naci"
+            },
+            {
+            "id":"CS045",
+            "nome":"Kebab Panino",
+            "prezzo":3.5,
+            "ingredienti":"Pane, Kebab, Insalata, Pomodori, Cipolle, Cetriolini, Patatine Fritte, Salse"
+            },
+            {
+            "id":"CS046",
+            "nome":"Kebab Arrotolato",
+            "prezzo":3.5,
+            "ingredienti":"Pane Arabo, Kebab, Insalata, Pomodori, Cipolle, Cetriolini, Patatine Fritte, Salse"
+            },
+            {
+            "id":"CS047",
+            "nome":"Hot Dog",
+            "prezzo":2.5,
+            "ingredienti":"Pane, Wrustel, Salse"
+            },
+            {
+            "id":"CS046",
+            "nome":"Hambugher",
+            "prezzo":3.5,
+            "ingredienti":"Pane, Carne, Salse, Pomodori, Insalata , Salse"
+            },
+            {
+            "id":"CS046",
+            "nome":"Cheeseburger",
+            "prezzo":3.5,
+            "ingredienti":"Pane , Carne,Formaggio , Salse, Pomodori, Insalata , Salse"
             }
         ],
-        "menu":[
+        "dolce":[
             {
-                "id":"M001",
-                "nome":"Cheeseburger",
-                "descrizione":"Cheeseburger, patatine e lattina 33cl",
-                "prezzo":5
+            "id":"CD001",
+            "nome":"Baklava",
+            "descrizione":"4 pezzi",
+            "prezzo":2
             },
             {
-                "id":"M002",
-                "nome":"Chickenburger",
-                "descrizione":"Chickenburger, patatine e lattina 33cl",
-                "prezzo":5
+            "id":"CD002",
+            "nome":"Souffle",
+            "descrizione":"1 pezzo",
+            "prezzo":2.5
             },
             {
-                "id":"M003",
-                "nome":"Kebab panino o arrotolato",
-                "descrizione":"Kebab, patatine e lattina 33cl",
-                "prezzo":5
+            "id":"CD003",
+            "nome":"Muffin",
+            "descrizione":"1 pezzo",
+            "prezzo":2
             },
             {
-                "id":"M004",
-                "nome":"Hot Dog",
-                "descrizione":"Hot Dog, patatine e lattina 33cl",
-                "prezzo":4
+            "id":"CD004",
+            "nome":"Donut",
+            "descrizione":"1 pezzo",
+            "prezzo":2
             },
             {
-                "id":"M005",
-                "nome":"Falafel",
-                "descrizione":"Falafel, patatine e lattina 33cl",
-                "prezzo":5
+            "id":"CD005",
+            "nome":"Piadina Nutella",
+            "descrizione":"1 pezzo",
+            "prezzo":2.5
             },
             {
-                "id":"M006",
-                "nome":"Samosa",
-                "descrizione":"Samosa 4 pezzi, patatine e lattina 33cl",
-                "prezzo":5
-            },
-            {
-                "id":"M007",
-                "nome":"Kofta",
-                "descrizione":"Kofta, patatine e lattina 33cl",
-                "prezzo":5
-            },
-            {
-                "id":"M008",
-                "nome":"Alette di pollo",
-                "descrizione":"Alette di pollo, patatine e lattina 33cl",
-                "prezzo":6
-            },
-            {
-                "id":"M009",
-                "nome":"Piatto kebab",
-                "descrizione":"Kebab scomposto e lattina 33cl",
-                "prezzo":7
-            },
-            {
-                "id":"M010",
-                "nome":"Piatto falafel",
-                "descrizione":"Falafel, insalata, patatine e lattina 33cl",
-                "prezzo":6.5
-            },
-            {
-                "id":"M011",
-                "nome":"Trancio Margherita",
-                "descrizione":"Trancio Margherita, patatine e lattina 33cl",
-                "prezzo":4
-            },
-            {
-                "id":"M012",
-                "nome":"Margherita",
-                "descrizione":"Margherita, patatine e lattina 33cl",
-                "prezzo":5
+            "id":"CD001",
+            "nome":"Focaccia Nutella",
+            "descrizione":"1 pezzo",
+            "prezzo":5.5
             }
         ]
-    }
-]
+    },
+    "bevande":[
+        {
+            "id":"B001",
+            "nome":"bibita lattina 33cl",
+            "prezzo":1.5
+        },
+        {
+            "id":"B002",
+            "nome":"bibita bottiglia 50cl",
+            "prezzo":2
+        },
+        {
+            "id":"B003",
+            "nome":"acqua naturale/frizzante 50cl",
+            "prezzo":1
+        },
+        {
+            "id":"B004",
+            "nome":"Red Bull",
+            "prezzo":2.5
+        }
+    ],
+    "menu":[
+        {
+            "id":"M001",
+            "nome":"Cheeseburger",
+            "descrizione":"Cheeseburger, patatine e lattina 33cl",
+            "prezzo":5
+        },
+        {
+            "id":"M002",
+            "nome":"Chickenburger",
+            "descrizione":"Chickenburger, patatine e lattina 33cl",
+            "prezzo":5
+        },
+        {
+            "id":"M003",
+            "nome":"Kebab panino o arrotolato",
+            "descrizione":"Kebab, patatine e lattina 33cl",
+            "prezzo":5
+        },
+        {
+            "id":"M004",
+            "nome":"Hot Dog",
+            "descrizione":"Hot Dog, patatine e lattina 33cl",
+            "prezzo":4
+        },
+        {
+            "id":"M005",
+            "nome":"Falafel",
+            "descrizione":"Falafel, patatine e lattina 33cl",
+            "prezzo":5
+        },
+        {
+            "id":"M006",
+            "nome":"Samosa",
+            "descrizione":"Samosa 4 pezzi, patatine e lattina 33cl",
+            "prezzo":5
+        },
+        {
+            "id":"M007",
+            "nome":"Kofta",
+            "descrizione":"Kofta, patatine e lattina 33cl",
+            "prezzo":5
+        },
+        {
+            "id":"M008",
+            "nome":"Alette di pollo",
+            "descrizione":"Alette di pollo, patatine e lattina 33cl",
+            "prezzo":6
+        },
+        {
+            "id":"M009",
+            "nome":"Piatto kebab",
+            "descrizione":"Kebab scomposto e lattina 33cl",
+            "prezzo":7
+        },
+        {
+            "id":"M010",
+            "nome":"Piatto falafel",
+            "descrizione":"Falafel, insalata, patatine e lattina 33cl",
+            "prezzo":6.5
+        },
+        {
+            "id":"M011",
+            "nome":"Trancio Margherita",
+            "descrizione":"Trancio Margherita, patatine e lattina 33cl",
+            "prezzo":4
+        },
+        {
+            "id":"M012",
+            "nome":"Margherita",
+            "descrizione":"Margherita, patatine e lattina 33cl",
+            "prezzo":5
+        }
+    ]
+}
