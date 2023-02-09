@@ -1,5 +1,5 @@
 P001 - Il Picciotto
 P002 - Manhattan
 P003 - Caffe Dublino
-P004 - fujiyama
+P004 - Fujiyama
 P005 - Amici kebab
