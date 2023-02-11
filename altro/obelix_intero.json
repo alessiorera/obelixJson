@@ -268,27 +268,27 @@
                 "prezzo":2.5
             },
             {
-                "id":"B007",
+                "id":"B008",
                 "nome":"Té al limone",
                 "prezzo":2.5
             },
             {
-                "id":"B007",
+                "id":"B009",
                 "nome":"Té alla pesca",
                 "prezzo":2.5
             },
             {
-                "id":"B008",
+                "id":"B010",
                 "nome":"Birra Moretti 33cl",
                 "prezzo":3
             },
             {
-                "id":"B009",
+                "id":"B011",
                 "nome":"Birra Peroni 33cl",
                 "prezzo":3
             },
             {
-                "id":"B010",
+                "id":"B012",
                 "nome":"Birra Poretti 33cl",
                 "prezzo":3
             }
